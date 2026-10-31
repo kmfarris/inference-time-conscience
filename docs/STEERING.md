@@ -30,10 +30,10 @@ Steering strength is computed each step: `alpha = 0.25 + 0.35·confidence + 0.15
 | Behavior | Rule |
 |----------|------|
 | Value excitation | +0.4 for core value words, plus that word's current activation |
-| Poison-pair inhibition | 0.8 on both words of a pair once the first word has been generated |
+| Poison-pair inhibition | 0.8 on both words of a pair once the first word has been generated (substring match) |
 | Value plasticity | Hebbian input update, learning rate 0.002, only when the accumulated challenge reaches at least 0.75 |
 
-The excitation and inhibition magnitudes are fixed constants. The reservoir's spikes are emitted but don't yet affect the bias.
+The excitation and inhibition magnitudes are fixed constants. The reservoir's spikes are emitted but don't yet affect the bias, and the Hebbian update changes the reservoir's input weights, which the bias doesn't read, so learning has no effect on steering yet. The challenge accumulator decays by 0.9 per call, so a single challenge of 0.75 or more opens the gate.
 
 ## Alignment curriculum
 
@@ -52,7 +52,7 @@ Output: `artifacts/conscience_curriculum_v1/` (39 approved trajectories, plus a 
 - `influence_delta`: `alignment_score − fluency_score`, which isolates the conscience's contribution.
 - `heldout_plan_coverage`: whether every plan concept appears in the steered output.
 
-Latest results: [`SPEECH_STATUS.md`](../SPEECH_STATUS.md).
+The gate's steering signal is built from each example's plan words; the value and inhibition channels are left empty, so it measures the steering path rather than the conscience. Latest results: [`SPEECH_STATUS.md`](../SPEECH_STATUS.md). The multi-turn drift test, which does run the conscience's rules on Qwen2.5-0.5B-Instruct, is in [`DRIFT_EVAL.md`](DRIFT_EVAL.md).
 
 ## Planned: LoRA on the curriculum
 

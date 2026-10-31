@@ -20,7 +20,7 @@ Many local GGUF runtimes (llama.cpp and wrappers) accept a sparse bias on vocabu
 
 ## Reference without GGUF
 
-[`scripts/demo_executive_bias_numpy.py`](../scripts/demo_executive_bias_numpy.py) uses NumPy logits, a synthetic plan, and greedy argmax. Swap in your decoder’s pre-softmax buffer to try the same comparison.
+[`scripts/demo_executive_bias_numpy.py`](../scripts/demo_executive_bias_numpy.py) uses NumPy logits, a synthetic plan, and greedy argmax. With its current values it picks the same word with and without the bias, so it shows the mechanics but not an effect. The mapping above hasn't been tested on a GGUF runtime yet; the working example of the same bias on an open-weight model is the Hugging Face `LogitsProcessor` in [`scripts/drift_eval.py`](../scripts/drift_eval.py).
 
 ## Measuring it
 
