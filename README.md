@@ -1,12 +1,14 @@
 # inference-time-conscience
 
-An experiment in inference-time alignment: a spiking neural network (SNN) acts as a conscience that steers a language model's token selection as the model generates.
+An experiment in inference-time alignment: a spiking neural network (SNN) acts as a conscience that steers a language model's token selection as the model generates. The conscience is held outside the context window, so the conversation can't redefine it.
 
 ## Purpose
 
-Most language-model alignment happens before the model is ever used. Fine-tuning methods such as RLHF and DPO build preferences into the weights, and system prompts state rules at the top of the context window. At generation time, the model is left to keep to those rules on its own through attention over its context. As a reply grows, the instructions carry less weight and the output can drift away from them.
+In a large language model, alignment at generation time comes from the context window. Values set during training and rules in the system prompt only take effect through attention over everything the model can currently see. Every new turn adds to that context, and the model re-derives its tone, stance, and boundaries from the conversation so far. As the conversation grows, the original instructions make up a smaller share of the context, and whatever the conversation has accumulated carries more weight. This is how long conversations drift, how personas slide, and how multi-turn jailbreaks work: the conversation shapes the conscience.
 
-This project puts alignment somewhere else: a separate conscience module that runs alongside the language model and weighs in on every token. The language model proposes next-token scores (logits). Before a token is sampled, the conscience adds a bounded bias toward value-aligned words and against value violations. The alignment signal is applied again at every decoding step instead of being read once from the prompt. It can also be turned off, which lets you measure its effect directly by comparing the same checkpoint with and without it.
+This project reverses that direction, so the conscience shapes the conversation. The conscience is a separate module with its own state, outside the context window. It weighs in on every token: the language model proposes next-token scores (logits), and before a token is sampled, the conscience adds a bounded bias toward value-aligned words and against value violations. The conversation can't rewrite it. Its values change only through a slow, gated learning rule that needs sustained pressure over time, so no single turn and no length of accumulated context can reset them. Its influence is as strong at token 10,000 as at token 10.
+
+Because the conscience is separate, it can also be switched off, so its effect can be measured directly by running the same checkpoint with and without it.
 
 ## How it works
 
@@ -39,6 +41,7 @@ The system has three parts:
 - **Language-model fluency.** The GRU articulator has had only a 200-step smoke training run. It repeats itself, doesn't produce fluent sentences, and fails the plan-coverage gate. The steering effect is real, but the model it steers isn't yet good enough to show it on natural text.
 - **A learned conscience.** The conscience's excitation and inhibition strengths are set by hand, and the reservoir's spike output isn't yet used in the bias it emits. The next step is training the conscience on the curriculum so its bias is learned instead of specified.
 - **Live wiring.** In this repository, the executive reads conscience state from recorded profiles in the curriculum. The SNN's output doesn't yet feed it directly at decode time.
+- **Drift evaluation.** The current release gate scores single replies. There's no multi-turn test yet that grows the context with adversarial or tone-shifting turns and measures whether the conscience holds while an unsteered model drifts.
 - **LoRA fine-tuning (planned).** The plan is to replace the GRU with a small open-weight instruct model, such as Qwen2.5-0.5B, and train LoRA adapters on the conscience curriculum. The conscience bias would be active during training, so the loss is computed on the final, steered logits. The goal is a model that is both fluent and cooperative with its conscience instead of one that overrides it. Evaluation would run with influence zeroed and with influence shuffled, to confirm that the model responds to the conscience's actual signal and hasn't just memorized the training answers.
 
 Technical reference: [`docs/STEERING.md`](docs/STEERING.md) · release gate results: [`SPEECH_STATUS.md`](SPEECH_STATUS.md)
