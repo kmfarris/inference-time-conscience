@@ -1,6 +1,8 @@
 # Executive steering for a persistent decoder
 
-Track C treats speech as **decode under influence**: a small recurrent language model holds memory across tokens; each step adds a bounded residual from an executive poll. The mesh may supply guidance elsewhere in the stack; in the published slice, `ExecutivePoller` implements rule-based logit bias from structured turn state.
+Track C’s purpose is to **write a reply while a separate executive signal is still in the loop**. A small recurrent language model (GRU) remembers the sentence as it grows. At each word, a poller reads the turn’s plan, guidance, and chemical levels and adds a bounded nudge to the model’s scores for the next word.
+
+The poller here is a designed rule over that turn state. The contract is the influence tensor and the decoder that consumes it.
 
 ## Control flow
 
@@ -17,33 +19,21 @@ sequenceDiagram
   LM->>Out: lm_logits + alpha * executive_bias
 ```
 
-**Persistent state.** Hidden state carries across the utterance; influence is per-token, not a one-shot prompt prefix only.
+Hidden state lasts for the whole utterance. The nudge is per word. Concept, inhibition, and plan-slot channels add to vocabulary scores; strength (`alpha`) is bounded.
 
-**Bias form.** Concept, inhibition, and plan-slot channels add to vocabulary logits; `alpha` is bounded per poll.
+## Data
 
-**Optional rerank.** Runtime may apply `SelectionSNN` top-k reranking among biased candidates when the full monorepo path is enabled.
-
-## Data and curriculum
-
-Bootstrap trajectories draw from definitional and conversational primers (`build_bootstrap_trajectories`). The conscience curriculum pairs a fail-closed local teacher with semantic-family seeds; approved trajectories and failed lessons are written to manifest JSON under `artifacts/conscience_curriculum_v1/`.
-
-Teacher boundary: `brain_regions/evaluation/local_teacher.py` — malformed or ungrounded teacher JSON rejects without silent fallback.
+Bootstrap examples come from definition and conversation primers. The conscience curriculum asks a local teacher for grounded Q&A and plans; malformed teacher JSON is rejected. Approved trajectories and failed lessons are in `artifacts/conscience_curriculum_v1/`.
 
 ## Evaluation
 
-Release gate: `brain_regions/evaluation/articulator_release_gate.py`. Held-out families include definitional and conversational slices. Smoke training has not cleared all gates (repetition collapse documented in `SPEECH_STATUS.md`).
+Release script: `brain_regions/evaluation/articulator_release_gate.py`. Compare a run with influence to a run with zero influence on the same checkpoint. The last smoke train did not pass fluency and coverage gates; numbers are in [`SPEECH_STATUS.md`](../SPEECH_STATUS.md).
 
-Ablation contract: compare full influence against zero-influence decode on the same checkpoint and tokenizer.
+## Still open
 
-## Scope boundaries
+A learned executive trained on the conscience JSON. Fluency of the current GRU checkpoint. Using Track C as everyday Scatterbrain speech (that switch lives in the parent repo).
 
-| In scope | Out of scope for this repo slice |
-|----------|----------------------------------|
-| Influence tensor contract and JSON poll roundtrip | Training the mesh executive on conscience JSON |
-| Conscience trajectory dataset methodology | Human-quality open-domain speech |
-| Pytest coverage for poller, curriculum, teacher | “Jailbreak-proof” or prompt-injection claims |
+## Related
 
-## Related reading
-
-- [`SPEECH_STATUS.md`](../SPEECH_STATUS.md) — which path runs in production
-- [`docs/PORTFOLIO.md`](PORTFOLIO.md) — how this tree relates to the public extract
+- [`SPEECH_STATUS.md`](../SPEECH_STATUS.md)
+- Parent project: [kmfarris/scatterbrain](https://github.com/kmfarris/scatterbrain)
