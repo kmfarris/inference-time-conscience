@@ -72,7 +72,7 @@ This is expected at micro-bootstrap scale. Do not enable Track C in production w
 ## Tests
 
 ```bash
-/home/kelly/miniconda3/bin/python3 -m pytest tests_brain_regions/test_articulator_influence.py -q
+PYTHONPATH=. python -m pytest tests/ -q
 ```
 
 Covers poll determinism, plan coverage, JSON round-trip, persistent cache steps, trajectory builder, micro overfit smoke.
