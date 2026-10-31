@@ -1,33 +1,44 @@
-# scatterbrain-steering
+# scatterbrain-steering: steering what an AI says while it's speaking
 
-When a system speaks, two jobs get mixed together: **remembering the sentence so far** and **deciding which next word is allowed**. Most language models do both in one stack. If you also want a plan, a value, or a mood-like signal to matter *while* the sentence is being written, you need a place for that signal to land.
+## What it is
 
-This project is that place. A small recurrent language model (a GRU) keeps the unfolding reply in memory. At every word, an **executive poll** reads the turn’s plan, guidance, and chemical levels and adds a bounded nudge to the scores of candidate words:
+An experiment in guiding an AI's reply word by word, while the reply is being written.
 
-```text
-next-word scores = model scores + (strength × executive nudge)
-```
+## The problem
 
-The intended purpose is **controllable generation**: the model still produces the sentence; the executive steers *which* words are more likely, step by step. The data, tests, and gates in this repository exist so that steering can be measured instead of assumed.
+An AI that generates text picks each next word based on the words it has already written. If you want a goal to shape the whole reply, such as "mention these three points," "stay gentle," or "avoid this topic," you usually state it once at the start and hope the model sticks with it. Partway through, it often drifts.
 
-This extract is Track C of Scatterbrain. Everyday chat in the parent project still uses a separate speech stack unless you turn Track C on there.
+## How it works
 
-## What works
+Two parts work together:
 
-- **Influence contract.** Polls serialize to JSON and round-trip. Plan coverage only advances when the matching word actually appears. Tests cover determinism, cache across tokens, and a small overfit smoke run (**15** tests pass).
-- **Curriculum.** A local teacher produces question/answer/plan triples grounded in source text. Bad teacher output is rejected, not kept. Version 1 of the dataset has **39** approved trajectories; failed lessons stay in the manifest (`artifacts/conscience_curriculum_v1/`).
-- **Ablation path.** The same checkpoint can run with executive influence on or off, so you can see whether the nudge moves the output.
-- **Portable demo.** A short NumPy script shows biased vs unbiased greedy choice without a full model ([`scripts/demo_executive_bias_numpy.py`](scripts/demo_executive_bias_numpy.py)). Mapping the same idea onto a local GGUF decoder is described in [`docs/GGUF_LOGIT_BIAS_DEMO.md`](docs/GGUF_LOGIT_BIAS_DEMO.md).
+- **The writer.** A small language model writes the reply one word at a time and keeps a running memory of everything it has written so far.
+- **The executive.** Before each word, a separate component looks at the plan for the reply (which points still need covering) and the system's current state (such as how calm or stressed it is). It gives a small push toward words that fit the plan and away from words that don't.
 
-Architecture write-up: [`docs/STEERING.md`](docs/STEERING.md). Gate numbers: [`SPEECH_STATUS.md`](SPEECH_STATUS.md).
+The writer still produces the sentence. The executive only shifts the odds, one word at a time, for the whole length of the reply. Because the push can be turned off, it's easy to measure how much it changes the output.
 
-## What still needs work
+**Training examples.** A local AI "teacher" was given short source texts and asked to write questions, good answers, deliberately bad answers, and a plan for each answer. Any output that broke the rules, such as answers that didn't stick to the source, was thrown out automatically. Thirty-nine examples passed, and the rejected ones are recorded too.
 
-- **Fluency.** The last smoke-trained articulator (200 steps, small vocabulary) failed release gates: fluency at 0, repetition on held-out prompts, production flag off. Influence *does* change scores (alignment delta +0.1125); the model is not yet a usable speaker.
-- **Learned executive.** The poller today is a designed rule over guidance and chemicals, not a trained network that read the conscience dataset.
-- **Default speech.** In the full Scatterbrain repo, Track C stays behind `SCATTERBRAIN_INFLUENCED_ARTICULATOR=1` until those gates pass.
+## Results so far
 
-## Try the tests
+- **The steering works.** Turning the executive's push on or off measurably changes which words get chosen.
+- **It's tested.** Fifteen automated tests cover the executive, the plan tracking, the training examples, and the teacher's rule checks.
+- **The examples are saved.** The 39 accepted examples and the rejected attempts are stored in `artifacts/conscience_curriculum_v1/`.
+- **It ports to other models.** A short demo shows the same push applied to a model's word scores, and a guide explains how to do it with locally run open-source models ([`docs/GGUF_LOGIT_BIAS_DEMO.md`](docs/GGUF_LOGIT_BIAS_DEMO.md)).
+
+## Still to do
+
+- **Fluency.** The small language model has only had a short training run and can't write fluent sentences yet. It tends to repeat itself, so it fails its quality checks.
+- **Learning the executive.** The executive currently follows rules written by hand. The next step is having it learn from the training examples.
+- **Switched off by default.** This project is one part of a larger system, Scatterbrain. There, everyday conversation uses a different speech method, and this one stays switched off until it passes its quality checks.
+
+Technical details: [`docs/STEERING.md`](docs/STEERING.md) · quality checks: [`SPEECH_STATUS.md`](SPEECH_STATUS.md)
+
+---
+
+## For developers
+
+Run the tests:
 
 ```bash
 python -m venv .venv && source .venv/bin/activate
@@ -35,4 +46,6 @@ pip install -r requirements-dev.txt
 PYTHONPATH=. python -m pytest tests/ -q
 ```
 
-Regenerate curriculum from the Scatterbrain monorepo with `run_conscience_curriculum.py` (needs a local Ollama teacher unless you use the test doubles). Parent project: [kmfarris/scatterbrain](https://github.com/kmfarris/scatterbrain).
+The core formula: each next-word score = the language model's score + (strength × the executive's push).
+
+The training examples can be regenerated from the main Scatterbrain project with `run_conscience_curriculum.py`, which needs a local [Ollama](https://ollama.com) model as the teacher. Main project: [kmfarris/scatterbrain](https://github.com/kmfarris/scatterbrain).

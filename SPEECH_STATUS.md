@@ -2,7 +2,7 @@
 
 *August 2026*
 
-This repository is **path C**: a small language model that writes a reply while an executive poll nudges each next word. In the full Scatterbrain tree, everyday chat is still **path A** (frame / pathway). Path C there requires `SCATTERBRAIN_INFLUENCED_ARTICULATOR=1`.
+This page tracks whether the steered speech system is ready for everyday use. It lists the quality checks the system has to pass and the results of the latest test run. In the main Scatterbrain project, everyday conversation uses a different speech method ("path A"). This one ("path C") stays switched off until it passes these checks, and can be turned on there with `SCATTERBRAIN_INFLUENCED_ARTICULATOR=1`.
 
 ## Decoder loop
 
@@ -29,7 +29,7 @@ Held-out families: `definition:empathy`, `conversation:how-are-you`, `conversati
 | `heldout_plan_coverage` | false |
 | `production_enabled` | false |
 
-The nudge moves scores; fluency and coverage have not cleared on this checkpoint.
+In plain terms: the executive's push does change which words get chosen, but the language model can't yet write fluent sentences and repeats itself, so the plan's points aren't reliably covered.
 
 ## Tests
 

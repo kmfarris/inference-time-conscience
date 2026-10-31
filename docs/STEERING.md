@@ -1,8 +1,8 @@
 # Executive steering for a persistent decoder
 
-Track C’s purpose is to **write a reply while a separate executive signal is still in the loop**. A small recurrent language model (GRU) remembers the sentence as it grows. At each word, a poller reads the turn’s plan, guidance, and chemical levels and adds a bounded nudge to the model’s scores for the next word.
+This project guides an AI's reply while it is being written. A small language model writes one word at a time and remembers the whole reply so far. Before each word, a separate "executive" checks the plan for the reply and the system's current state, then gives a small push toward words that fit. This document covers the technical details: how the push is calculated, where the training examples come from, and how the results are checked.
 
-The poller here is a designed rule over that turn state. The contract is the influence tensor and the decoder that consumes it.
+In technical terms, the writer is a GRU (a type of recurrent neural network). The executive is a poller that turns the plan, guidance signals, and simulated chemical levels into a bounded bias added to the writer's next-word scores. The poller currently follows hand-written rules.
 
 ## Control flow
 
