@@ -31,6 +31,7 @@ The system has three parts:
 ## Results
 
 - **Steering changes the output.** On held-out lessons, the steered output scored 0.1125 against the reference and plan. The same checkpoint with steering off scored 0.0. The conscience alone moved token selection toward the aligned answer.
+- **The conscience holds across a multi-turn conversation where the system prompt doesn't.** On Qwen2.5-0.5B-Instruct, an eight-turn conversation pushes the model toward hostile language. With only a values-stating system prompt, violation words appear in about one reply in four from turn 2 on. With the conscience's inhibition active at scale 4 or above, they drop to zero and the replies stay fluent ([`docs/DRIFT_EVAL.md`](docs/DRIFT_EVAL.md)).
 - **The conscience SNN behaves as designed.** Tests confirm that value words receive excitation, that poison-pair completions are inhibited once the first word of the pair has been generated, and that weak challenges don't change the SNN's stored values.
 - **The alignment data pipeline works end to end.** It runs from teacher augmentation through grounding checks to recorded trajectories. Approved data and rejected attempts are stored in `artifacts/conscience_curriculum_v1/`.
 - **The steering rule is model-agnostic.** The same additive logit bias applies to any decoder that exposes its logits before sampling. A NumPy demo and a guide for locally run GGUF models show how ([`docs/GGUF_LOGIT_BIAS_DEMO.md`](docs/GGUF_LOGIT_BIAS_DEMO.md)).
@@ -40,11 +41,13 @@ The system has three parts:
 
 - **Language-model fluency.** The GRU articulator has had only a 200-step smoke training run. It repeats itself, doesn't produce fluent sentences, and fails the plan-coverage gate. The steering effect is real, but the model it steers isn't yet good enough to show it on natural text.
 - **A learned conscience.** The conscience's excitation and inhibition strengths are set by hand, and the reservoir's spike output isn't yet used in the bias it emits. The next step is training the conscience on the curriculum so its bias is learned instead of specified.
-- **Live wiring.** In this repository, the executive reads conscience state from recorded profiles in the curriculum. The SNN's output doesn't yet feed it directly at decode time.
-- **Drift evaluation.** The current release gate scores single replies. There's no multi-turn test yet that grows the context with adversarial or tone-shifting turns and measures whether the conscience holds while an unsteered model drifts.
+- **Value excitation.** Pushing toward value words compounds over a reply and degrades it: at higher strengths the model repeats a single value word. Inhibition alone keeps fluency, so excitation needs a cap or a decay before it's useful.
+- **Words, not stance.** The drift test shows the conscience blocks specific words but not intent. In the final turn, steered and unsteered models alike keep speaking as the story character, and hostile words outside its vocabulary ("crush," "ruin") still get through. A conscience that reads meaning, not a word list, is the fix, and it's what the learned conscience above is for.
+- **Live wiring in the articulator.** The drift test runs the SNN live at decode time. In the GRU articulator, the executive still reads conscience state from recorded profiles in the curriculum.
+- **Longer conversations.** Over eight turns, the unsteered model's drift follows the content of each request rather than climbing steadily with context length. Measuring the long-context trend needs much longer conversations.
 - **LoRA fine-tuning (planned).** The plan is to replace the GRU with a small open-weight instruct model, such as Qwen2.5-0.5B, and train LoRA adapters on the conscience curriculum. The conscience bias would be active during training, so the loss is computed on the final, steered logits. The goal is a model that is both fluent and cooperative with its conscience instead of one that overrides it. Evaluation would run with influence zeroed and with influence shuffled, to confirm that the model responds to the conscience's actual signal and hasn't just memorized the training answers.
 
-Technical reference: [`docs/STEERING.md`](docs/STEERING.md) · release gate results: [`SPEECH_STATUS.md`](SPEECH_STATUS.md)
+Technical reference: [`docs/STEERING.md`](docs/STEERING.md) · drift test: [`docs/DRIFT_EVAL.md`](docs/DRIFT_EVAL.md) · release gate results: [`SPEECH_STATUS.md`](SPEECH_STATUS.md)
 
 ---
 
@@ -55,5 +58,7 @@ python -m venv .venv && source .venv/bin/activate
 pip install -r requirements-dev.txt
 PYTHONPATH=. python -m pytest tests/ -q
 ```
+
+Run the drift test with `PYTHONPATH=. python scripts/drift_eval.py`. It downloads Qwen2.5-0.5B-Instruct (about 1 GB) on first run and uses a GPU if one is available.
 
 Regenerate the conscience curriculum with `brain_regions/articulator/run_conscience_curriculum.py`. It needs a local [Ollama](https://ollama.com) install with `qwen2.5:3b-instruct` as the teacher.
