@@ -29,7 +29,7 @@ class TurnExecutiveState:
 
 
 class ExecutivePoller:
-    """Poll executive influence each token without re-running full mesh extract."""
+    """Poll executive influence each token without recomputing conscience state."""
 
     def __init__(
         self,

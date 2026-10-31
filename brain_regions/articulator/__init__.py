@@ -1,4 +1,4 @@
-"""Track C articulator (public extract)."""
+"""Conscience-steered articulator."""
 from brain_regions.articulator.influence import ExecutivePoll, InfluenceSignal
 from brain_regions.articulator.model import ArticulatorConfig, StateInfluencedArticulator
 from brain_regions.articulator.poller import ExecutivePoller, TurnExecutiveState

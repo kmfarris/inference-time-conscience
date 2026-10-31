@@ -1,16 +1,16 @@
-# Applying the same nudge on a local GGUF model
+# Applying the conscience bias to a local GGUF model
 
-Track C in PyTorch does:
+The articulator in PyTorch computes:
 
 ```text
 final_logits = lm_logits + α · executive_bias
 ```
 
-Many local GGUF runtimes (llama.cpp and wrappers) accept a sparse bias on vocabulary scores before sampling. You can reuse the executive poll’s JSON, map word strings to that model’s token ids, and apply the same idea without training a LoRA.
+Many local GGUF runtimes (llama.cpp and wrappers) accept a sparse bias on vocabulary scores before sampling. You can reuse the executive poll’s JSON, map word strings to that model’s token ids, and apply the same conscience bias to any open-weight model without retraining it.
 
 ## Mapping
 
-| Track C field | Typical GGUF hook |
+| Executive field | Typical GGUF hook |
 |---------------|-------------------|
 | `concept_bias[token_id]` | Per-id logit bias |
 | `alpha` | Scalar on the bias vector |
