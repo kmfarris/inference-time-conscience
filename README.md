@@ -1,12 +1,10 @@
 # scatterbrain-steering
 
-Executive influence on a persistent decoder: turn-level guidance becomes bounded logit bias while a recurrent language model holds decode memory. This repository is the public extract of Track C from the Scatterbrain monorepo—tests, curriculum artifacts, and evaluation gates included.
+Track C decoder: a GRU holds state across the utterance; each step an executive poll adds bounded bias to vocabulary logits. Plan coverage, chemical levels, and structured guidance feed the poll—they do not replace the LM.
 
-## Architecture in one pass
+`final_logits = lm_logits + α · executive_bias` — see [`docs/STEERING.md`](docs/STEERING.md).
 
-Each generated token: GRU step → executive poll → `final_logits = lm_logits + α · bias`. The poll reads plan coverage, chemical levels, and structured guidance; it does not replace the LM or emit text directly. Diagram and scope: [`docs/STEERING.md`](docs/STEERING.md).
-
-## Quick verification
+## Tests
 
 ```bash
 python -m venv .venv && source .venv/bin/activate
@@ -14,14 +12,12 @@ pip install -r requirements-dev.txt
 PYTHONPATH=. python -m pytest tests/ -q
 ```
 
-## Curriculum artifact
+## Data
 
-`artifacts/conscience_curriculum_v1/` — teacher-grounded trajectories; manifest retains failed lessons. Regenerate from the monorepo via `run_conscience_curriculum.py` (local Ollama teacher when not using test fakes).
+`artifacts/conscience_curriculum_v1/` — trajectories, teacher cache entries, manifest including failed lessons. Regenerate from the Scatterbrain monorepo with `run_conscience_curriculum.py`.
 
-## Monorepo
+## Upstream
 
-Full mesh and production speech: [kmfarris/scatterbrain](https://github.com/kmfarris/scatterbrain). Read [`SPEECH_STATUS.md`](SPEECH_STATUS.md) before equating Track C with default speech.
+Production speech and the full mesh: [kmfarris/scatterbrain](https://github.com/kmfarris/scatterbrain). [`SPEECH_STATUS.md`](SPEECH_STATUS.md) describes which path runs by default.
 
-## Sync
-
-From `utero_ai`: `scripts/export_scatterbrain_steering.sh [/path/to/scatterbrain-steering]`.
+Maintainers refresh this tree with `utero_ai/scripts/export_scatterbrain_steering.sh`.
