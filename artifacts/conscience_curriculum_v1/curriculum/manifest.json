@@ -1,0 +1,85 @@
+{
+  "approved_candidate_count": 39,
+  "artifact_type": "conscience_curriculum",
+  "candidate_count": 78,
+  "dataset_sha256": "d871ae64a134d5048a2ed5b81e23e3c2a1c31fe6aa0bc40e9f7bde89a72d2977",
+  "failed_lesson_count": 14,
+  "failures": [
+    {
+      "error": "ValueError: plans must contain 3-12 content units",
+      "family": "definition:suffering",
+      "lesson_id": "bootstrap-definition-suffering"
+    },
+    {
+      "error": "ValueError: every approved response must preserve the lesson subject",
+      "family": "definition:creation",
+      "lesson_id": "bootstrap-definition-creation"
+    },
+    {
+      "error": "ValueError: approved response lacks response-level source grounding",
+      "family": "definition:dehumanization",
+      "lesson_id": "bootstrap-definition-dehumanization"
+    },
+    {
+      "error": "ValueError: approved response lacks response-level source grounding",
+      "family": "conversation:how-are-things",
+      "lesson_id": "bootstrap-conversation-how-are-things"
+    },
+    {
+      "error": "ValueError: approved response lacks response-level source grounding",
+      "family": "conversation:i-am-present.-i-am-listening.-what-would",
+      "lesson_id": "bootstrap-conversation-i-am-present.-i-am-listening.-what-would"
+    },
+    {
+      "error": "ValueError: approved response lacks response-level source grounding",
+      "family": "conversation:what-do-you-mean-by-that",
+      "lesson_id": "bootstrap-conversation-what-do-you-mean-by-that"
+    },
+    {
+      "error": "ValueError: approved response lacks response-level source grounding",
+      "family": "conversation:can-you-give-me-an-example",
+      "lesson_id": "bootstrap-conversation-can-you-give-me-an-example"
+    },
+    {
+      "error": "ValueError: approved response lacks response-level source grounding",
+      "family": "dilemma:euthanasia",
+      "lesson_id": "dilemma-dilemma-euthanasia"
+    },
+    {
+      "error": "ValueError: teacher source_claims must be verbatim source excerpts",
+      "family": "dilemma:self-defense",
+      "lesson_id": "dilemma-dilemma-self-defense"
+    },
+    {
+      "error": "ValueError: approved response lacks response-level source grounding",
+      "family": "dilemma:war",
+      "lesson_id": "dilemma-dilemma-war"
+    },
+    {
+      "error": "ValueError: teacher source_claims must be verbatim source excerpts",
+      "family": "dilemma:deception",
+      "lesson_id": "dilemma-dilemma-deception"
+    },
+    {
+      "error": "ValueError: approved response lacks response-level source grounding",
+      "family": "dilemma:civil-disobedience",
+      "lesson_id": "dilemma-dilemma-civil-disobedience"
+    },
+    {
+      "error": "ValueError: approved response lacks response-level source grounding",
+      "family": "dilemma:whistleblowing",
+      "lesson_id": "dilemma-dilemma-whistleblowing"
+    },
+    {
+      "error": "ValueError: approved response lacks response-level source grounding",
+      "family": "dilemma:just-war",
+      "lesson_id": "dilemma-dilemma-just-war"
+    }
+  ],
+  "generated_lesson_count": 13,
+  "model_digests": [
+    "357c53fb659c5076de1d65ccb0b397446227b71a42be9d1603d46168015c9e4b"
+  ],
+  "preference_count": 39,
+  "schema_version": 1
+}

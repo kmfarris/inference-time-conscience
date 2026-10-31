@@ -1,0 +1,10 @@
+{
+  "artifact_type": "conscience_trajectories",
+  "candidate_count": 39,
+  "curriculum_path": "artifacts/conscience_curriculum_v1/curriculum",
+  "dev_count": 0,
+  "schema_version": 1,
+  "train_count": 39,
+  "trajectory_count": 39,
+  "vocab_size": 277
+}

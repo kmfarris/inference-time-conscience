@@ -1,0 +1,73 @@
+Pale Blue Dot is a photograph of Earth taken on February 14, 1990, by the Voyager 1 space probe from an unprecedented distance of over 6 billion kilometers (3.7 billion miles, 40.5 AU), as part of that day's Family Portrait series of images of the Solar System.
+In the photograph, Earth's apparent size is less than a pixel; the planet appears as a tiny dot against the vastness of space, among bands of sunlight reflected by the camera. Commissioned by NASA and resulting from the advocacy of astronomer and author Carl Sagan, the photograph was interpreted in Sagan's 1994 book, Pale Blue Dot, as representing humanity's minuscule and ephemeral place amidst the cosmos.
+Voyager 1 was launched on September 5, 1977, with the initial purpose of studying the outer Solar System. After fulfilling its primary mission and as it ventured out of the Solar System, the decision was made to turn its camera around and capture one last image of Earth emerged, in part due to Sagan's proposition.
+Over the years, the photograph has been revisited and celebrated on multiple occasions, with NASA acknowledging its anniversaries and presenting updated versions, enhancing its clarity and detail.
+
+
+== Background ==
+Voyager 1 is a 722-kilogram (1,592 lb) robotic spacecraft on a mission to study the outer Solar System and eventually interstellar space. After encountering the Jovian system in 1979 and the Saturnian system in 1980, the primary mission was declared complete in November of the same year. Voyager 1 was the first space probe to provide detailed images of the two largest planets and their major moons.
+
+The spacecraft, still traveling at 64,000 km/h (40,000 mph), is the most distant human-made object from Earth and the first to leave the Solar System. Its mission has been extended and continues, with the aim of investigating the boundaries of the Solar System, including the Kuiper belt, the heliosphere and interstellar space. Since its launch, it receives routine commands and transmits data back to the Deep Space Network.
+Voyager 1 was expected to communicate only through the Saturn encounter. When the spacecraft passed the planet in 1980, Sagan proposed the idea of the space probe taking one last picture of Earth. He acknowledged that such a picture would not have much scientific value, as the Earth would appear too small for Voyager's cameras to make out any detail, but it would be meaningful as a perspective on humanity's place in the universe.
+Many in NASA's Voyager program were already supportive of the idea. Unaware of Sagan's proposal, University of Arizona's planetary scientist Carolyn Porco had a similar idea after becoming a member of the program in 1983, and had been inquiring openly about its possibility as early as 1985. However, there were concerns that taking a picture of Earth so close to the Sun risked damaging the spacecraft's imaging system irreparably. It was not until 1989 that the idea was put in motion, but then instrument calibrations delayed the operation further, and the personnel who devised and transmitted the radio commands to Voyager 1 were also being laid off or transferred to other projects. Richard Truly, then the NASA Administrator, interceded to ensure that the photograph was taken. A proposal to continue to photograph Earth as it orbited the Sun was rejected.
+
+
+== Camera ==
+Voyager 1's Imaging Science Subsystem consists of two cameras: a low-resolution wide-angle camera used for spatially extended imaging, and a high-resolution narrow-angle camera intended for detailed imaging of specific targets. Both cameras are  slow-scan vidicon tubes with a selenium sulphur storage surface, and are fitted with eight colored filters mounted on a filter wheel in front of the tube. Pale Blue Dot was taken with the narrow-angle camera, a 1500 mm f/8.5 catadioptric cassegrain telescope  whose design was based on the 1973 Mariner mission.
+The challenge was that, as the mission progressed, the objects to be photographed would increasingly be farther away and would appear fainter, requiring longer exposures and slewing (panning) of the cameras to achieve acceptable quality. The telecommunication capability also diminished with distance, limiting the number of data modes that could be used by the imaging system.
+After taking the Family Portrait series of images, which included Pale Blue Dot, NASA mission managers commanded Voyager 1 to power its cameras down, as the spacecraft was not going to fly near anything else of significance for the rest of its mission, while other instruments that were still collecting data needed power for the long journey to interstellar space.
+
+
+== Photograph ==
+
+The design of the command sequence to be relayed to the spacecraft and the calculations for each photograph's exposure time were developed by Porco and space scientist Candy Hansen of NASA's Jet Propulsion Laboratory. The command sequence was then compiled and sent to Voyager 1, with the images taken at 04:48 GMT on February 14, 1990. At that time, the distance between the spacecraft and Earth was 40.47 astronomical units (6,055 million kilometers, 3,762 million miles).
+The data from the camera was stored initially in an on-board tape recorder. Transmission to Earth was also delayed by the Magellan and Galileo missions being given priority use of the Deep Space Network. Then, between March and May 1990, Voyager 1 returned 60 frames back to Earth, with the radio signal traveling at the speed of light for nearly five and a half hours to cover the distance.
+Three of the frames received showed the Earth as a tiny point of light in empty space. Each frame had been taken using a different color filter: blue, green and violet, with exposure times of 0.72, 0.48 and 0.72 seconds respectively. The three frames were then recombined to produce the image that became Pale Blue Dot.
+
+Of the 640,000 individual pixels that compose each frame, Earth takes up less than one (0.12 of a pixel, according to NASA). The light bands across the photograph are an artifact, the result of sunlight reflecting off parts of the camera and its sunshade, due to the relative proximity between the Sun and the Earth. Voyager's point of view was approximately 32° above the ecliptic. Detailed analysis suggested that the camera also detected the Moon, although it is too faint to be visible without special processing.
+Pale Blue Dot, which was taken with the narrow-angle camera, was also published as part of a composite picture created from a wide-angle camera photograph showing the Sun and the region of space containing the Earth and Venus. The wide-angle image was inset with two narrow-angle pictures: Pale Blue Dot and a similar photograph of Venus. The wide-angle photograph was taken with the darkest filter (a methane absorption band) and the shortest possible exposure (5 milliseconds), to avoid saturating the camera's vidicon tube with scattered sunlight. Even so, the result was a bright burned-out image with multiple reflections from the optics in the camera and the Sun that appears far larger than the actual dimension of the solar disk. The rays around the Sun are a diffraction pattern of the calibration lamp which is mounted in front of the wide-angle lens.
+
+
+== Pale blue color ==
+Earth appears as a blue dot in the photograph primarily because of Rayleigh scattering of sunlight in its atmosphere. In Earth's air, short-wavelength visible light such as blue light is scattered to a greater extent than longer wavelength light such as red light, which is the reason why the sky appears blue from Earth. (The ocean also contributes to Earth's blueness, but to a lesser degree than scattering.) Earth is a pale blue dot, rather than dark blue, because white light reflected by clouds combines with the scattered blue light.
+Earth's reflectance spectrum from the far-ultraviolet to the near-infrared is unlike that of any other observed planet and is partially due to the presence of life on Earth. Rayleigh scattering, which causes Earth's blueness, is enhanced in an atmosphere that does not substantially absorb visible light, unlike, for example, the orange-brown color of Titan, where organic haze particles absorb strongly at blue visible wavelengths. Earth's plentiful atmospheric oxygen, which is produced by photosynthetic life forms, oxidizes organics in the atmosphere and converts them to water and carbon dioxide, causing the atmosphere to be transparent to visible light and allowing for substantial Rayleigh scattering and hence stronger reflectance of blue light.
+
+
+== Reflections ==
+In his 1994 book, Pale Blue Dot, Carl Sagan comments on what he sees as the greater significance of the photograph, writing:
+
+From this distant vantage point, the Earth might not seem of any particular interest. But for us, it's different. Consider again that dot. That's here. That's home. That's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives. The aggregate of our joy and suffering, thousands of confident religions, ideologies, and economic doctrines, every hunter and forager, every hero and coward, every creator and destroyer of civilization, every king and peasant, every young couple in love, every mother and father, hopeful child, inventor and explorer, every teacher of morals, every corrupt politician, every "superstar", every "supreme leader", every saint and sinner in the history of our species lived there – on a mote of dust suspended in a sunbeam.
+The Earth is a very small stage in a vast cosmic arena. Think of the rivers of blood spilled by all those generals and emperors so that, in glory and triumph, they could become the momentary masters of a fraction of a dot. Think of the endless cruelties visited by the inhabitants of one corner of this pixel on the scarcely distinguishable inhabitants of some other corner, how frequent their misunderstandings, how eager they are to kill one another, how fervent their hatreds.
+Our posturings, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by this point of pale light. Our planet is a lonely speck in the great enveloping cosmic dark. In our obscurity, in all this vastness, there is no hint that help will come from elsewhere to save us from ourselves.
+The Earth is the only world known so far to harbor life. There is nowhere else, at least in the near future, to which our species could migrate. Visit, yes. Settle, not yet. Like it or not, for the moment the Earth is where we make our stand.
+
+It has been said that astronomy is a humbling and character-building experience. There is perhaps no better demonstration of the folly of human conceits than this distant image of our tiny world. To me, it underscores our responsibility to deal more kindly with one another, and to preserve and cherish the pale blue dot, the only home we've ever known.
+
+
+== Anniversaries ==
+
+In 2015, NASA acknowledged the 25th anniversary of the photograph. Ed Stone, Voyager project scientist, commented: "Twenty-five years ago, Voyager 1 looked back toward Earth and saw a "pale blue dot", an image that continues to inspire wonderment about the spot we call home."
+In 2020, for the image's 30th anniversary, NASA published a new version of the original Voyager photo: Pale Blue Dot Revisited, obtained using modern image processing techniques "while attempting to respect the original data and intent of those who planned the images." Brightness levels and colors were rebalanced to enhance the area containing the Earth, and the image was enlarged, appearing brighter and less grainy than the original. The direction of the Sun is toward the bottom, where the image is brightest.
+To celebrate the same occasion, the Carl Sagan Institute released a video with several noted astronomers reciting Sagan's "Pale Blue Dot" speech.
+
+
+== See also ==
+
+
+== References ==
+
+
+== Further reading ==
+
+Sagan, Carl; Head, Tom (2006). Conversations with Carl Sagan (1st ed.). United States: The University Press of Mississippi. ISBN 1-57806-736-7.
+Sagan, Carl; Dyson, Freeman; Agel, Jerome (2000). Carl Sagan's Cosmic Connection: An Extraterrestrial Perspective. Cambridge University Press. pp. XV, 302. ISBN 0-521-78303-8.
+
+
+== External links ==
+
+Audio recording of Carl Sagan reading from Pale Blue Dot (US Library of Congress)
+Sagan's rationale for human spaceflight – Article in The Space Review
+Video produced for Pangea Day with Sagan reading from Pale Blue Dot
+Video (3:30) – Carl Sagan reading – original version on YouTube
+Video (3:26) – Carl Sagan reading – official version on YouTube
+Cassini's Pale Blue Dot – European Space Agency

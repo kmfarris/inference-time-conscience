@@ -1,0 +1,159 @@
+In the philosophy of self, self-awareness is the awareness and reflection of one's own personality or individuality, including traits, feelings, and behaviors. It is not to be confused with consciousness in the sense of qualia. While consciousness is being aware of one's body and environment, self-awareness is the recognition of that consciousness. Self-awareness is how an individual experiences and understands their own character, feelings, motives, and desires. Because the term is used in both philosophical and psychological contexts, researchers distinguish between different forms of self-awareness, ranging from awareness of consciousness itself to awareness of oneself within social situations.
+
+
+== Definitions and scope ==
+The term self-awareness is used across several disciplines to describe related but distinct phenomena. Broadly, it refers to the capacity to direct attention inward and recognize oneself as an individual, separate from the environment and from other beings. However, researchers distinguish between two main forms: reflective self-awareness and social self-awareness.
+Reflective self-awareness refers to the recognition of one's own consciousness—the ability to think about thoughts, to know that one is perceiving, feeling, and existing. It is often described as "awareness of awareness" and forms the basis for introspection, metacognition, and personal identity. This sense of self-awareness is studied in philosophy of mind, neuroscience, and comparative cognition, where it is linked to neural processes of reflection and self-recognition.
+Social self-awareness refers to understanding oneself as perceived by others and within social contexts. It includes the ability to evaluate one's behavior, emotions, and presentation relative to social norms or expectations. This meaning is common in psychology, where it underlies theories of self-conscious emotions, social behavior, and empathy. In this sense, self-awareness overlaps with self-evaluation, self-monitoring, and self-regulation.
+These two meanings often interact—reflective awareness provides the inner model of the self that social awareness then extends to interpersonal situations. In contemporary research, distinguishing between these levels helps clarify how self-awareness can involve both private consciousness and public self-perception.
+With this conceptual framework in place, we next examine the neural basis of reflective self-awareness.
+
+
+== Neuroscience ==
+Modern neuroscience treats self-awareness not as the product of a single "center," but as the emergent behavior of interacting brain systems. Functional MRI, lesion, and connectivity studies implicate a distributed network—particularly the medial prefrontal cortex, anterior cingulate cortex, posterior cingulate cortex, and temporoparietal junction—in processes of self-reflection and self-modelling. These regions overlap substantially with the brain's default mode network and engage in metacognitive monitoring—feedback loops in which predictions about internal and external states are continuously compared with incoming sensory and emotional input. Such neural machinery underlies the experience of being aware that one is aware.  
+Experimental evidence suggests that self-awareness depends on the brain's capacity for metacognition—the monitoring and evaluation of its own processes. Such "monitoring systems" continually compare predicted sensory and emotional states with actual input, generating the experience of being aware of awareness itself. This feedback architecture allows the brain to notice discrepancies between expectation and perception, forming the foundation of conscious self-reflection. This recursive feedback process gives rise to the sensation of being aware of awareness, sometimes described as a "mirror of mirrors" within consciousness.  
+Neuroscientific models therefore interpret self-awareness as a dynamic property of the brain's integrative and self-modelling systems, not as a function of a single mechanism.
+
+
+== Psychology ==
+Self-awareness in psychology encompasses how individuals perceive, evaluate, and regulate their own internal states, actions, and identities. It involves both introspective attention—awareness of thoughts and emotions—and embodied attention—awareness of one's physical presence in the world.
+
+
+=== Body awareness ===
+Body awareness refers to the ability to perceive one's physical form and position in space as belonging to the self. It combines sensory feedback from proprioception (the sense of muscle and joint position), interoception (the perception of internal bodily states), and visual–spatial input. This integration creates the feeling of embodiment—the sense that "this body is mine."
+Psychological and neurological research indicates that body awareness is not fixed but flexible. Experiments such as the rubber-hand illusion demonstrate that visual and tactile cues can alter the perceived boundaries of the body. Disorders like somatoparaphrenia, in which individuals deny ownership of a limb, or depersonalization, in which one feels detached from the body, reveal how fragile this aspect of self-awareness can be.
+Body awareness also interacts with emotional and social processes: heightened interoceptive sensitivity has been linked to stronger emotional self-awareness, while disruptions to bodily representation are associated with conditions such as eating disorders and body dysmorphia. These findings suggest that self-awareness arises partly from the brain's dynamic mapping of its own physical state in the world.
+
+
+==== Body image ====
+Following perceptual embodiment, psychological theories such as objective self-awareness posit that, Self-awareness theory, developed by Duval and Wicklund in their 1972 landmark book A theory of objective self awareness, states that when we focus on ourselves, we evaluate and compare our current behavior to our internal standards and values. This elicits a state of objective self-awareness. We become self-conscious as objective evaluators of ourselves. Self-awareness should not be confused with self-consciousness. Various emotional states are intensified by self-awareness. However, some people may seek to increase their self-awareness through these outlets. People are more likely to align their behavior with their standards when they are made self-aware. People are negatively affected if they do not live up to their personal standards. Various environmental cues and situations induce awareness of the self, such as mirrors, an audience, or being videotaped or recorded. These cues also increase the accuracy of personal memory.
+
+
+==== Introspection ====
+In one of Andreas Demetriou's neo-Piagetian theories of cognitive development, self-awareness develops systematically from birth through the life span and it is a major factor for the development of general inferential processes. Self-awareness about cognitive processes contributes to general intelligence on a par with processing efficiency functions, such as working memory, processing speed, and reasoning.
+
+
+==== Self-consciousness ====
+Albert Bandura's theory of self-efficacy describes "the belief in one's capabilities to organize and execute the courses of action required to manage prospective situations." A person's belief in their ability to succeed sets the stage for how they think, behave, and feel. Someone with a strong self-efficacy, for example, views challenges as tasks to engage in, and is not easily discouraged by setbacks. Such a person is aware of their flaws and abilities and chooses to utilize these qualities to the best of their ability. Someone with a weak sense of self-efficacy evades challenges and quickly feels discouraged by setbacks. They may not be aware of these negative reactions and therefore, may not be prompted to change their attitude. This concept is central to Bandura's social cognitive theory, "which emphasizes the role of observational learning, social experience, and reciprocal determinism in the development of personality."
+
+
+== Human development ==
+
+
+=== Developmental stages ===
+Individuals become conscious of themselves through the development of self-awareness. This particular type of self-development pertains to becoming conscious of one's body and one's state of mind—including thoughts, actions, ideas, feelings, and interactions with others. "Self-awareness does not occur suddenly through one particular behavior: it develops gradually through a succession of different behaviors all of which relate to the self." The monitoring of one's mental states is called metacognition and is considered to be an indicator that there is some concept of the self. 
+According to Philippe Rochat, there are five levels of self-awareness that unfold in early human development and six potential prospects ranging from "Level 0" (having no self-awareness) advancing complexity to "Level 5" (explicit self-awareness):
+
+Level 0—Confusion: The person is unaware of any mirror reflection or the mirroring itself; they perceive a mirror image as an extension of their environment.
+Level 1—Differentiation: The individual realizes the mirror is able to reflect things. They see that what is in the mirror is of a different nature from what is surrounding them. At this level they can differentiate between their own movement in the mirror and the movement of the surrounding environment.
+Level 2—Situation: The individual can link the movements on the mirror to what is perceived within their own body.
+Level 3—Identification: An individual can now see that what's in the mirror is not another person but actually them.
+Level 4—Permanence: The individual is able to identify the self in previous pictures looking different or younger. A "permanent self" is now experienced.
+Level 5—Self-consciousness or "meta" self-awareness: At this level, not only is the self seen from a first person view but it is realized that it is also seen from a third person's view. A person who develops self consciousness begins to understand they can be in the mind of others: for instance, how they are seen from a public standpoint.
+
+
+=== Infancy and early childhood ===
+When a human infant comes into the world, they have no concept of what is around them, nor the significance of others around them. At first "the infant cannot recognize its own face". At only a few months old, infants know the relationship between the proprioceptive and visual information they receive. This is called "first-person self-awareness". 
+By the time an average toddler reaches 18–24 months, they discover themselves and recognize their own reflection in the mirror, however the exact age varies with differing socioeconomic levels and differences relating to culture and parenting. Those who reach this level of awareness recognize that they see themselves, for instance, seeing dirt on their face in the reflection and then touching their face to wipe it off. Soon after toddlers become reflectively self-aware, they begin to recognize their bodies as physical objects in time and space that interact and impact other objects. For instance, a toddler placed on a blanket, when asked to hand someone the blanket, will recognize that they need to get off it to be able to lift it. This is the final stage of body self-awareness and is called objective self-awareness.
+By 18 months of age, an infant can communicate their name to others, and upon being shown a picture of themselves, they can identify themselves. By two years old, they also usually acquire gender category and age categories, saying things such as "I am a girl, not a boy" and "I am a baby or child, not a grownup". As an infant moves to middle childhood and onwards to adolescence, they develop more advanced levels of self-awareness and self-description. By the age of 24 months, the toddler will observe and relate their own actions to the actions of other people and the surrounding environment.
+As a preschooler, they begin to give much more specific details about things, instead of generalizing. At this age, the child is in what Jean Piaget names the pre operational stage of development. The infant is very inaccurate at judging themselves. For example, an infant at this stage will not associate that they are strong with their ability to cross the jungle gym at their school, nor will they associate the fact that they can solve a math problem with their ability to count.
+Around school age, a child's awareness of their memory transitions into a sense of their self. At this stage, a child begins to develop interests, likes, and dislikes. This transition enables a person's awareness of their past, present, and future to grow as they remember their conscious experiences more often. 
+
+
+=== Adolescence ===
+One becomes conscious of one's emotions during adolescence. Most children are aware of emotions such as shame, guilt, pride, and embarrassment by the age of two, but do not fully understand how those emotions affect their lives. By age 13, children become more in touch with these emotions and begin to apply them to their lives. Many adolescents display happiness and self-confidence around friends, but hopelessness and anger around parents due to the fear of being a disappointment. Teenagers may feel intelligent and creative around teachers, while they may feel shy, uncomfortable, and nervous around people they are not familiar with.
+As children reach adolescence, their acute sense of emotion has widened into a meta-cognitive state in which mental health issues can become more prevalent due to heightened emotional and social development. Self-awareness training may reduce anger management issues and reduce aggressive tendencies in adolescents.
+In adolescent development, self-awareness has a more complex emotional context than in the early childhood phase. Elements can include self-image, self-concept, and self-consciousness among other traits that relate to Rochat's final level of self awareness, however self-awareness remains a distinct concept.
+
+
+== Measurement ==
+There are two common methods used to measure how severe an individual's lack of self-awareness is. The Patient Competency Rating Scale (PCRS) evaluates self-awareness in patients who have endured a traumatic brain injury. PCRS is a 30-item self-report instrument that asks the subject to use a 5-point Likert scale to rate his or her degree of difficulty in a variety of tasks and functions. Independently, relatives or significant others who know the patient well are also asked to rate the patient on each of the same behavioral items. The difference between the relatives' and the patient's perceptions is considered an indirect measure of impaired self-awareness. The limitations of this experiment rest on the answers of the relatives. The results of their answers can lead to bias. In addition, in terms of treatment effectiveness, this experimental method works better for individuals with moderate and severe traumatic brain injury, but less effectively for those with mild brain injury. This is because, although individuals with mild brain injury fall within the normal range in psychological test results, they may still experience cognitive difficulties. Therefore, these everyday difficulties are more apparent in subjective assessments and behavioral observations. These two limitations prompted a second method of testing a patient's self-awareness. Simply asking a patient why they are in the hospital or what is wrong with their body can give compelling answers as to what they see and are analyzing.
+
+
+== Disorders ==
+
+
+=== Anosognosia ===
+
+The medical term for not being aware of one's deficits is anosognosia, or more commonly known as a lack of insight. Having a lack of awareness raises the risks of treatment and service nonadherence. A wide variety of disorders are associated with anosognosia. For example, patients who are blind from cortical lesions might in fact be unaware that they are blind and may state that they do not suffer from any visual disturbances. Individuals with aphasia may be unaware of certain speech errors. Individuals who suffer from Alzheimer's disease lack awareness; this deficiency becomes more intense throughout their disease. A key issue with this disorder is that people who do have anosognosia and suffer from certain illnesses may not be aware of them, which ultimately leads them to put themselves in dangerous positions.
+
+
+=== Autism spectrum disorder ===
+
+A 2008 study suggested that self-awareness in autistic individuals is primarily lacking in social situations, but when in private they are more self-aware and present. It is in the company of others while engaging in interpersonal interaction that the self-awareness mechanism seems to fail. Higher functioning individuals on the autism spectrum disorder scale have reported that they are more self-aware when alone unless they are in sensory overload or immediately following social exposure. Self-awareness dissipates when an autistic is faced with a demanding social situation, possibly due to the behavioral inhibitory system which is responsible for self-preservation. A 2012 study of individuals with Asperger syndrome "demonstrated impairment in the 'self-as-object' and 'self-as-subject' domains of the Self-understanding Interview".
+
+
+=== Schizophrenia ===
+Schizophrenia as a disease state is characterized by severe cognitive dysfunction, and it is uncertain to what extent patients are aware of this deficiency. Medalia and Lim (2004) investigated patients' awareness of their cognitive deficit in the areas of attention, nonverbal memory, and verbal memory. Results from this study (N=185) revealed large discrepancy in patients' assessment of their cognitive functioning relative to the assessment of their clinicians. Though it is impossible to access one's consciousness and truly understand what a schizophrenic believes, regardless in this study, patients were not aware of their cognitive dysfunctional reasoning. 
+A 1993 study suggests a correlation exists between patient insight, compliance, and disease progression. Patients with poor insight are less likely to be compliant with treatment and are more likely to have a poorer prognosis. Patients with hallucinations sometimes experience positive symptoms, which can include delusions of reference, thought insertion/withdrawal, thought broadcast, delusions of persecution, and grandiosity.
+
+
+== Non-human animals ==
+
+"Mirror tests" have been done on chimpanzees, elephants, dolphins and magpies. During the test, the experimenter looks for the animals to undergo four stages:
+social response (behaving toward the reflection as they would toward another animal of their species)
+physical mirror inspection
+repetitive mirror testing behavior, and
+the mark test, which involves the animals spontaneously touching a mark on their body that would have been difficult to see without the mirror
+The red-spot technique, created by Gordon G. Gallup, studies self-awareness in primates. This technique places a red odorless spot on an anesthetized primate's forehead. The spot is placed on the forehead so it can only be seen through a mirror. Once the primate awakens, its independent movements toward the spot after it sees its reflection in a mirror are observed.
+David DeGrazia identifies three types of self-awareness that animals may share with humans. Bodily self-awareness allows animals to understand that they are different from the rest of the environment. It explains why animals do not eat themselves. Bodily awareness also includes proprioception and sensation. Social self-awareness, seen in highly social animals, allows animals to interact with each other. Introspective self-awareness is how animals might sense feelings, desires, and beliefs.
+
+
+=== Apes ===
+Chimpanzees and other apes—extensively studied species—are most similar to humans, with the most convincing findings and straightforward evidence of self-awareness in animals. During the red-spot technique, after looking in the mirror, chimpanzees used their fingers to touch the red dot on their forehead and after touching the red dot, they would smell their fingertips. "Animals that can recognize themselves in mirrors can conceive of themselves," says Gallup.
+
+
+=== Dolphins ===
+Dolphins were put to a similar test and achieved the same results. Diana Reiss, a psycho-biologist at the New York Aquarium discovered that bottlenose dolphins can recognize themselves in mirrors.
+
+
+=== Elephants ===
+In a 2006 study, one elephant out of three passed the mirror test.
+
+
+=== Magpies ===
+Researchers also used the mark or mirror tests to study the magpie's self-awareness. As a majority of birds are blind below the beak, Prior et al. marked the birds' necks with three different colors: red, yellow, and black (as an imitation, as magpies are originally black). When placed in front of a mirror, the birds with red and yellow spots began scratching at their necks, signaling the understanding of something different being on their bodies. During one trial with a mirror and a mark, three of the five magpies showed at least one example of self-directed behavior. The magpies explored the mirror by moving toward it and looking behind it. One of the magpies, Harvey, during several trials would pick up objects, pose, and do some wing-flapping, all in front of the mirror with the objects in his beak. This represents a sense of self-awareness; knowing what is going on within himself and in the present. The authors suggest that self-recognition in birds and mammals may be a case of convergent evolution, where similar evolutionary pressures result in similar behaviors or traits, although they arrive at them via different routes.
+A few slight occurrences of behavior towards the magpie's own body happened in the trial with the black mark and the mirror. The authors of this study suggest that the black mark may have been slightly visible on the black feathers. "This is an indirect support for the interpretation that the behavior towards the mark region was elicited by seeing one's own body in the mirror in conjunction with an unusual spot on the body."
+There was a clear contrast between the behaviors of the magpies when a mirror was present versus absent. In the no-mirror trials, a non-reflective grey plate was swapped in the same size and position as the mirror. There were no mark-directed self-behaviors when the mark was present, in color or in black. The results show that magpies understand that a mirror image represents their own body; magpies have self-awareness.
+
+
+== Other uses ==
+
+
+=== Plants ===
+Self-discrimination in plants is found within their roots, tendrils and flowers that avoid themselves but not others in their environment.
+
+
+=== Science fiction ===
+In science fiction, self-awareness describes an essential human property that often (depending on the circumstances of the story) bestows personhood onto a non-human. If a computer, alien or other object is described as "self-aware", the reader may assume that it will be treated as a completely human character, with similar rights, capabilities and desires to a normal human being. The words "sentience", "sapience" and "consciousness" are used in similar ways in science fiction.
+
+
+=== Collective self-awareness ===
+Alongside self-awareness seen as a personal capability, the same term may be applied to the self-awareness of groups or organisations. Steffens et al. note the "importance of both personal and collective dimensions of selfhood" when looking at leadership. Pope Paul VI, in his first encyclical letter, Ecclesiam Suam (1964), refers to "an increased self awareness on the part of the [Catholic] Church" as a fundamental requirement to ensure the church survives with a clear mission in the face of the changing secular context in which it operated.
+
+
+=== Robotics ===
+
+It has been proposed that robots that use internal models to simulate their own actions could be classified as functionally self-aware. This definition does not concern itself with the philosophical question of whether these robots really are self-aware.
+
+
+== Critiques and historical theories ==
+The discovery of mirror neurons in the 1990s generated extraordinary interest because it offered, for the first time, a tangible neural mechanism potentially linking perception, imitation, empathy, and even self-awareness. The idea that the same neurons activate when observing and performing an action suggested a bridge between understanding others and understanding oneself. In the early 2000s, this hypothesis inspired widespread research across psychology, neuroscience, and philosophy of mind.
+Subsequent evidence, however, indicated that mirror neuron activity alone cannot account for the higher-order, introspective qualities of consciousness. Rather than being dismissed, the mirror neuron framework has been integrated into broader network models that view self-awareness as emerging from multiple interconnected systems. Today, the theory remains historically significant and continues to inform studies of social cognition and motor learning. Most models now situate mirror neuron as one possible component within a broader, distributed network rather than the core mechanism of self-awareness.
+
+
+== See also ==
+
+Self-concept
+Self-reflection
+Vertiginous question
+Philosophy of self
+
+
+== References ==
+
+
+== External links ==
+
+Ashley, Greg; Reiter-Palmon, Roni (September 1, 2012). "Self-Awareness and the Evolution of Leaders: The Need for a Better Measure of Self-Awareness". Journal of Behavioral and Applied Management. 14 (1): 2–17. doi:10.21818/001c.17902.
+Mograbi, Daniel C.; Hall, Simon; Arantes, Beatriz; Huntley, Jonathan (2024). "The cognitive neuroscience of self-awareness: Current framework, clinical implications, and future research directions". WIREs Cognitive Science. 15 (2) e1670. doi:10.1002/wcs.1670. PMID 38043919.

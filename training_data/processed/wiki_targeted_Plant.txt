@@ -1,0 +1,54 @@
+A plan is typically any list of steps, with details of timing and resources, used to achieve an objective. It is commonly understood as a temporal set of intended actions through which one expects to achieve a goal, and is sometimes represented by a diagram. 
+For spatial or planar topologic or topographic sets see map.
+Plans can be formal or informal:
+
+Structured and formal plans, used by multiple people, are more likely to occur in projects, diplomacy, careers, economic development, military campaigns, combat, sports, games, or in the conduct of other business. In most cases, the absence of a well-laid plan can have adverse effects: for example, a non-robust project plan can cost the organization time and money.
+Informal or ad hoc plans are created by individuals in all of their pursuits.
+The most popular ways to describe plans are by their breadth, time frame, and specificity; however, these planning classifications are not independent of one another. For instance, there is a close relationship between the short- and long-term categories and the strategic and operational categories.
+It is common for less formal plans to be created as abstract ideas, and remain in that form as they are maintained and put to use. More formal plans as used for business and military purposes, while initially created with and as an abstract thought, are likely to be written down, drawn up or otherwise stored in a form that is accessible to multiple people across time and space. This allows more reliable collaboration in the execution of the plan.
+
+
+== Topics ==
+
+
+=== Planning ===
+The term planning implies the working out of sub-components in some degree of elaborate detail. Broader-brush enunciations of objectives may qualify as metaphorical roadmaps. Planning literally just means the creation of a plan; it can be as simple as making a list. It has not acquired a technical meaning, however, to cover the area of government  legislation and regulations elated to the use of resources.
+Planning can refer to the planned use of any and all resources, as in the succession of Five-Year Plans through which the government of the Soviet Union sought to develop the country. However, the term is most frequently used in relation to planning for the use of land and related resources, for example in urban planning, transportation planning, etc.
+In a governmental context, "planning" without any qualification is most likely to mean the regulation of land use. See also zoning.
+
+
+=== Planners ===
+Planners are the professionals that have the requisite training to take or make decisions that will help or balance the society in order to have a functional, aesthetic, and convenient environment.
+
+
+=== Methodology ===
+Concepts such as top-down planning (as opposed to bottom-up planning) reveal similarities with the systems thinking behind the top-down model.
+The subject touches such broad fields as psychology, game theory, communications and information theory, which inform the planning methods that people seek to use and refine; as well as logic and science (i.e. methodological naturalism) which serve as a means of testing different parts of a plan for reliability or consistency.
+The specific methods used to create and refine plans depend on who is to make it, who is to put it to use, and what resources are available for the task. The methods used by an individual in his or her mind or personal organizer, may be very different from the collection of planning techniques found in a corporate board-room, and the planning done by a project manager has different priorities and uses different tools to the planning done by an engineer or industrial designer.
+
+
+== Examples of plans ==
+Architectural plan
+Business plan
+Fragplan
+Flight plan
+Health plan
+Marketing plan
+Military plan
+Project plan
+Site plan
+The Schlieffen Plan
+The Five-Year Plan system in the former Soviet Union
+The Marshall Plan
+
+
+== See also ==
+Automated planning
+Critical path method
+PDCA (plan–do–check–act)
+Program evaluation and review technique (PERT)
+Roadmap
+Strategy
+
+
+== References ==

@@ -1,0 +1,89 @@
+Editing is the process of selecting and preparing written, visual, audible, or cinematic material used by a person or an entity to convey a message or information. The editing process can involve correction, condensation, organization, and many other modifications performed with an intention of producing a correct, consistent, accurate and complete piece of work.
+The editing process often begins with the author's idea for the work itself, continuing as a collaboration between the author and the editor as the work is created. Editing can involve creative skills, human relations and a precise set of methods. Practicing editing can be a way to reduce language error in future literature works.
+
+There are various editorial positions in publishing. Typically, one finds editorial assistants reporting to the senior-level editorial staff and directors who report to senior executive editors. Senior executive editors are responsible for developing a product for its final release. The smaller the publication, the more these roles overlap.
+The top editor at many publications may be known as the chief editor, executive editor, or simply the editor. A frequent and highly regarded contributor to a magazine may acquire the title of editor-at-large or contributing editor. Mid-level newspaper editors often manage or help to manage sections, such as business, sports and features. In U.S. newspapers, the level below the top editor is usually the managing editor.
+In the book publishing industry, editors may organize anthologies and other compilations, produce definitive editions of a classic author's works (scholarly editor), and organize and manage contributions to a multi-author book (symposium editor or volume editor). Obtaining manuscripts or recruiting authors is the role of an acquisitions editor or a commissioning editor in a publishing house. Finding marketable ideas and presenting them to appropriate authors are the responsibilities of a sponsoring editor.
+Copy editors correct spelling, grammar and align writings to house style. Changes to the publishing industry since the 1980s have resulted in nearly all copy editing of book manuscripts being outsourced to freelance copy editors.
+At newspapers and wire services, press or copy editors write headlines and work on more substantive issues, such as ensuring accuracy, fairness, and taste. In some positions, they design pages and select news stories for inclusion. At British and Australian newspapers, the term is sub-editor. They may choose the layout of the publication and communicate with the printer. These editors may have the title of layout or design editor or (more so in the past) makeup editor.
+In film editing, many editing techniques are used, such as post-processing and video and audio assembly.
+
+
+== Scholarly books and journals ==
+
+Within the publishing environment, editors of scholarly books are of three main types, each with particular responsibilities:
+
+Acquisitions editor (or commissioning editor in Britain), who contracts with the author to produce the copy
+Project editor or production editor, who sees the copy through its stages from manuscript to bound book and usually assumes most of the budget and schedule responsibilities
+Copy editor or manuscript editor, who prepares the copy for conversion into printed form.
+In the case of multi-author edited volumes, before the manuscript is delivered to the publisher it has undergone substantive and linguistic editing by the volume's editor, who works independently of the publisher.
+As for scholarly journals, where spontaneous submissions are more common than commissioned works, the position of journal editor or editor-in-chief replaces the acquisitions editor of the book publishing environment, while the roles of production editor and copy editor remain. However, another editor is sometimes involved in the creation of scholarly research articles. Called the authors' editor, this editor works with authors to get a manuscript fit for purpose before it is submitted to a scholarly journal for publication.
+The primary difference between copy editing scholarly books and journals and other sorts of copy editing lies in applying the standards of the publisher to the copy. Most scholarly publishers have a preferred style that usually specifies a particular dictionary and style manual—for example, The Chicago Manual of Style, the MLA Style Manual or the APA Publication Manual in the U.S., or the New Hart's Rules in the U.K.
+
+
+== Editing in the 21st century ==
+Editing has a long history dating back to the earliest times of written language. Over time, editing has evolved greatly, particularly with the emergence of new forms of media and language that have led to a move towards multimodality. Today, hardcopies and print are no longer the main focus of editing as new content like film and audio require different kinds of edits.
+Technical editing is now more commonly done using applications and websites on devices, which requires editors to be familiar with online platforms like Adobe Acrobat, Microsoft Office, and Google Docs. The significance and intentions behind editing have also changed, moving beyond print due to the continuous advancements in technology. As a result, the grounds and values of editing have changed as well. For instance, text is often shortened and simplified online because of the preference for quick answers among this generation. Additionally, the advancement in social issues has made it possible to offer easy access to vast amounts of information.
+Apart from editing written work, video editing has also evolved. Nowadays, non-linear editing is the main way of editing video clips, but in the 1900s, it was linear editing. As computer systems and software have developed, video clips are now able to be uploaded directly to the editing software, making the editing process quicker. With this evolution of editing, creativity has been sped up, editing has become easier, and there are now countless ways for writers to tell stories.
+
+
+== Visual editing ==
+
+In terms of editing visual content, the two main forms are photographic and cinematic. Photo editing has evolved considerably from humble means, dating back to the early 20th century. During the 1920s, photographers established a new discipline of creative editing by creating collages from multiple photos. By the late 1980s, it became possible to computerize images by running physical photos through a scanner. Over time, software began to develop, aimed toward the manipulation of different qualities of a photo. Today, there are a multitude of applications to choose from to edit the content or qualities of photos; Adobe Photoshop is a common example, as well as other applications such as Adobe Lightroom. Modern photo editing techniques include, but are not limited to linearization, white balance, noise reduction, tone reproduction and compression.
+The other form of visual editing is cinematic editing. Cinematic editing entails anything that is to be used as cinematic material, mainly films. Cinematic editing dates back to the early 1900s when American filmmaker, D.W. Griffith, produced the first films that essentially paved the way for the editing techniques that are still used today. The progression of technology brought about advancements in gear, which meant filmmakers were able to achieve new techniques in the post-production process through editing. Editors went from physically cutting and rearranging film to working on virtual timelines using software like DaVinci Resolve or Adobe Premiere Pro.
+
+
+== Self-editing ==
+Self-editing is the process of evaluating one's own writing and fixing errors. This does not require any specialized knowledge, and simply aims to improve the overall quality of a literary work. It is an essential part of the editing process, benefiting both language learners and those writing in their native language.
+Students often find learning about editing rewarding in both learning a language and improving language skills. However, the writing field currently debates whether self-editing is the best way to reduce errors in student writing. Some studies have shown that self-editing is more effective at reducing language errors in the short term than peer-editing. However, in the long term, both approaches have similar effects on students. Others have found that the collaborative dialogue provided by peer-editing may cause it to be much better at reducing language errors than self-editing.
+Today, self-editing is being taught in numerous ways. Some researchers have found a significant improvement in student essays through self-editing worksheets. Others have experimented with mobile apps. Similar to the worksheets, these mobile based editing exercises have been shown to reduce error specifically in English learners' papers. Just as applications like Google Docs and Grammarly can highlight grammatical errors, these applications may teach students to identify these mistakes, among others, by themselves.
+While there hasn't yet been a definitive answer on the best editing techniques to improve language errors, numerous studies have shown that learning to edit helps in both learning a language and improving native language skills.
+
+
+== Technical editing ==
+
+Technical editing involves reviewing text written on a technical topic, identifying usage errors and ensuring adherence to a style guide. It aims to improve the clarity of the text or message from the author to the reader. Technical editing is actually the umbrella term for all the different kinds of edits that might occur.
+Technical editing may include the correction of grammatical mistakes, misspellings, mistyping, incorrect punctuation, inconsistencies in usage, poorly structured sentences, wrong scientific terms, wrong units and dimensions, inconsistency in significant figures, technical ambivalence, technical disambiguation, statements conflicting with general scientific knowledge, correction of synopsis, content, index, headings and subheadings, correcting data and chart presentation in a research paper or report, and correcting errors in citations.
+From basics to more critical changes, these adjustments to the text can be categorized by the different terms within technical editing. There are policy edits, integrity edits, screening edits, copy clarification edits, format edits and mechanical style edits, language edits, etc.
+The two most common and broad are substantive editing and copy editing. Substantive editing is developmental because it guides the drafting process by providing essential building blocks to work off of. They work closely with the author to help supply ideas. Copy editing happens later in the drafting process and focuses on changing the text so that it's consistent throughout in terms of accuracy, style, flow, and so on. This is usually the preferred editing for the surface-level cleaning up of work.
+Large companies dedicate experienced writers to the technical editing function. Organizations that cannot afford dedicated editors typically have experienced writers peer-edit text produced by less experienced colleagues.
+It helps if the technical editor is familiar with the subject being edited. The "technical" knowledge that an editor gains over time while working on a particular product or technology does give the editor an edge over another who has just started editing content related to that product or technology.
+General essential skills include attention to detail, patience, persistence, the ability to sustain focus while working through lengthy pieces of text on complex topics, tact in dealing with writers, and excellent communication skills. Additionally, one does not need an English major to partake but language aptitude certainly helps.
+
+
+== Editing services ==
+
+Editing is a growing field of work in the service industry. There is little career training offered for editors. Paid editing services may be provided by specialized editing firms or by self-employed (freelance) editors.
+Editing firms may employ a team of in-house editors, rely on a network of individual contractors or both. Such firms are able to handle editing in a wide range of topics and genres, depending on the skills of individual editors. The services provided by these editors may be varied and can include proofreading, copy editing, online editing, developmental editing, editing for search engine optimization, etc.
+Self-employed editors work directly for clients (e.g., authors, publishers) or offer their services through editing firms, or both. They may specialize in a type of editing (e.g., copy editing) and in a particular subject area. Those who work directly for authors and develop professional relationships with them are called authors' editors. There is hope for self-employed editors because all editing differs based on tradition, experience, education, personal style, values, etc.
+
+
+== See also ==
+Audio editing
+Author editing
+Film editing
+Literary editor
+Redaction
+Social edition
+Stealth edit
+Textual scholarship
+Video editing
+Writer
+
+
+== References ==
+
+
+== Further reading ==
+Overholser, Geneva (December 1998). "Editor Inc". American Journalism Review.
+Stephen, Leslie (1898). "The Evolution of Editors". Studies of a Biographer. Vol. 1. London: Duckworth and Co. pp. 37–73.
+Morrison, Blake (6 August 2005). "Black day for the blue pencil". The Observer. Archived from the original on 13 April 2021. Retrieved 4 April 2021.
+Ó Brógáin, Séamas (2015). A Dictionary of Editing. Vol. 1. Dublin: Claritas. Archived from the original on 1 September 2017. Retrieved 25 May 2016.
+Greenberg, Susan L. (2015) Editors talk about editing: insights for readers, writers and publishers, New York: Peter Lang
+Munro, Craig (2021) Literary Lion Tamers: book editors who made publishing history, Brunswick, Victoria: Scribe Publications ISBN 9781925713220
+
+
+== External links ==
+
+ The dictionary definition of editing at Wiktionary
+ Media related to Editing at Wikimedia Commons

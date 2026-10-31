@@ -1,0 +1,105 @@
+Trunks, also called boles, are the stems of woody plants and the main structural element of trees. The woody part of the trunk consists of dead but structurally significant heartwood and living sapwood, which is used for nutrient storage and transport. Separating the wood from the bark is the cambium, from which trunks grow in diameter. Bark is divided between the living inner bark (the phloem), which transports sugars, and the outer bark, which is a dead protective layer.
+The precise cellular makeup of these components differs between non-flowering plants (gymnosperms) and flowering plants (angiosperms). A variety of specialised cells facilitate the storage of carbohydrates, water, minerals, and transport of water, minerals, and hormones around the plant. Growth is achieved by division of these cells. Vertical growth is generated from the apical meristems (stem tips), and horizontal (radial) growth, from the cambium. Growth is controlled by hormones, which send chemical signals for how and when to grow.
+Plants have evolved to both manage and prevent damage from occurring to trunks. Trunks are structured to resist wind forces, through characteristics such as high strength and stiffness, as well as oscillation damping, which involves taking energy, and therefore damage (by extension), out of the trunk and into the branches and leaves. If damaged, trunks employ a complex and slow defence mechanism, which starts by creating a barrier to the incoming disease. Eventually, diseased cells are replaced by new, healthy cells, once the threat is contained.
+Trunks not only support the extensive ecological function of living trees, but also play a large ecological role when the trees eventually die. Dead trunk matter, termed coarse woody debris, serves many roles including: plant and animal habitat, nutrient cycling, and the transport and control of soil and sediment. Most trees grown outside the tropics can be dated (have their age estimated) by counting their annual rings. Variations in these rings can provide insights into climate, a field of study called dendroclimatology. Trunks have been in continuous use by humans for thousands of years including in construction, medicine, and a myriad of wood-related products. Culturally, trunks are the subject of symbolism, folk belief, ritual, and feature in art of many mediums.
+
+
+== Occurrence ==
+
+All vascular plants (those that have xylem and phloem tissues) have both roots and stems. But only gymnosperms, and angiosperms that are both woody and sprout two initial leaves (dicots), have trunks. The rest of the angiosperms can be categorised as either herbaceous plants with one initial leaf (monocots), like bamboo, or herbaceous plants with two initial leaves (dicots), like flax. Neither grow trunks.
+
+
+== Structure ==
+
+Trunks, the stems of woody plants, connect the roots to the upper branches, canopy, and leaves. In general, the trunk of woody plants, which is their most easily identifiable feature, consists of: heartwood, sapwood, cambium, inner bark, outer bark, and the pith. In this way, the xylem, or wood, of the tree is separated from the bark by the cambium, which functions as a lateral meristem. The cambium promotes growth radially. The younger part of the xylem (the sapwood) conducts water up from the roots to the leaves. It also acts as storage for food, through the parenchyma, which is made up of ray cells. While only 10% of the sapwood cells are alive, the heartwood, the darker part of the xylem, is completely dead. It proves structural value to the plant. The pith is the most minor feature of the trunk, being a remnant from when the stem was not yet woody. The purpose of producing a trunk is to enable a taller plant, with greater stability.
+Earlywood and latewood describe the difference in density between wood grown early (low density) and later (high density) in the growing season. Tree rings, seen when the trunk is viewed in cross-section, are the result of the difference in cambial growth rates during the year. The difference in thickness of the cells of earlywood and latewood is generally responsible for the presence of growth rings. They are most pronounced in conifers and are mostly not annual in equatorial regions. In angiosperms, annual rings are also influenced by the proportion of different cells present in the different regions. This varies between genera, however. The outer annual ring or rings are generally responsible for most of the water transport in trees, to differing degrees.
+
+
+=== In gymnosperms ===
+
+Up to 90% of the xylem of gymnosperms is made up of vertically oriented tracheids, a type of conductive cell, which often overlap one another. To facilitate liquid transfer, the cell walls of tracheids contain pits, and are around 100 times as long as they are wide. They also provide structural strength through their thick cell wall. In the horizontal (or radial) direction, the most significant component in gymnosperms are wood rays, formed by the cambium. They consist of groups of cells which both store carbohydrates and minerals, but also move water, minerals, and other compounds in the horizontal direction. Ray tracheids and parenchyma, in different combinations, make up the structure of wood rays. Parenchyma chiefly function as nutrient storage, but can also assist in liquid transport to a limited degree. They also supply mechanical strength to the tree.
+
+
+=== In angiosperms ===
+
+In angiosperms, the axial direction is dominated by fibres, as well as vessel elements, parenchyma cells and tracheids (both vascular and vasicentric), as in gymnosperms. The vessel elements are responsible for the majority of water transport and as such are orientated on top of one-another. They range from 1 to 10 m in length and the presence of them can be used to separate hardwoods from softwoods. The structure of fibres is similar to tracheids, but with smaller pits and thicker cell walls. Their main function is structural. Generally, the proportion of axial parenchyma found in angiosperms is greater than that found in gymnosperms. In the horizontal direction, wood rays can be found, as in gymnosperms, however they consist exclusively of parenchyma. In contrast to gymnosperms, the radial water transport is mostly achieved through adjacent axial vessels, or between any axial member through their pits.
+
+
+=== Bark ===
+
+The structure of bark consists of a primary phloem, secondary phloem, cortex, periderm and a dead outer layer of rhytidome. This is the case for radial growth caused by the cambium, called secondary growth. In primary growth located at stem tips, however, the secondary phloem and periderm are not grown. Phloem support carbohydrate transport throughout the tree, through a process called translocation. The periderm protects the trunk from mechanical damage and reduces loss of water. Lenticels are small holes in the periderm consisting of porous tissue that allow for gas transfer. This includes transfer of carbon dioxide, oxygen, and water.
+
+
+== Growth ==
+
+There are two types of growth that produce tree trunks: primary (vertical) growth of stems, and secondary (radial) growth through the cambium. Primary growth occurs on the apical meristems through apical dominance, in which buds not at the tip are prevented from growing.
+Secondary growth occurs in the vascular part of the cambium, in the cambial zone, a layer between 1 and 10 cells thick. Both additive and multiplicative division take place in this zone. In additive division, fusiform (thin but wide in the middle) initial cells (initials) are tangentially divided to produce mother cells for the subsequent production of xylem and phloem cells. In multiplicative division, the same initial cells are divided anticlinally (in perpendicular direction to neighbouring cells). This is the division responsible for growing the diameter of the trunk.
+When trees grow on a lean, it causes an increase in density and cambial growth in the concave section being leaned on. The wood this creates is called reaction wood and is generally undesirable. In angiosperms it is known as tension wood and in gymnosperms as compression wood, as a result of the different strategies (or reactions) employed by the trees.
+
+
+=== Hormones ===
+Auxin is the hormone responsible for preventing auxiliary buds from growing, thus fostering apical dominance. The exact mechanism and full picture of its contribution, as well as genetic and other factors is not clear.
+Although all of the major plant growth hormones can be found in the cambium region, auxin exerts a major influence on both divisions that occur in the cambial zone. There is some evidence that gibberellins have an effect on cambial growth in some plants. There is evidence to suggest that exogenous cytokinins both stimulate and do not stimulate cambial growth rates. Abscisic acid (ABA) has an effect on cambial growth, although it is not clear in what way. Ethylene has been found to contribute to controlling the amount of xylem or phloem cells being produced by trees. Ethephon (or ethrel) has been shown to effect the sizes of xylem and phloem cells and cell walls, depending on its concentration. Both Indole-3-acetic acid (IAA) and ABA have a variable effect on tree trunk growth, depending on the time of year.
+
+
+=== Wounding ===
+If a tree trunk is damaged either mechanically or chemically a wound can be produced, which increases the risk of disease through pathogens. In response, the sapwood creates a barrier of discoloured wood which contains extractives. Extractives are special molecules found but not attached (extraneous) to cell walls. The effect of this is to inhibit the movement of pathogens or other micro-organisms. If broken through, the tree will further block motion using thicker-walled cells, tyloses, or by plugging vessels, depending on the species. In general, wounds generate a complex biochemical and physiological response which is not fully understood. To eventually heal a wound, the trees produce callus tissue that is later converted into new cambial cells.
+
+
+== Mechanics ==
+
+Forces imposed by wind affect both the growth and structure of trees. They result in internal forces (stress) and elongations (strain), as well as vibrations. To adapt and evolve to face these, tree trunks have an internal structure that resists oscillation and fracture. Static (stationary) analysis provides a basis for understanding the effects of self weight and wind, while dynamic (moving) analysis describes a more accurate depiction of wind loading.
+
+
+=== Statics ===
+The structure of wood is such that it can neither be called totally elastic (spring-like) or totally viscous (fluid-like), and therefore it is described as viscoelastic (somewhere in between). In addition to this, wood is not isotropic (the same in all directions) like traditionally studied materials such as metals and also behaves in a non-linear way. This is as a result of different cell orientations and the angles of microfibrils in the cell walls. This, together with other variable factors such as the moisture content and turgor pressure (force exerted by water in plants), make most conventional engineering analysis not applicable.  Simplifying the structure of tree trunks for analysis can be done in three ways. One way is to treat them as a composite material, in which tracheids and fibres bear most of the load. Another is to consider them to be a multilamellar composite, where each unit contains one or more laminae. Each of these is then said to be a composite material consisting of microfibrils of cellulose embedded in either pectin–hemicellulose or lignin–hemicellulose. The third way is to consider the cellular structure of the trunk, based on the mechanical properties, density, and shape of the constituent cells.
+
+
+==== Properties ====
+Increased density (mass per unit of volume) and diameter (thickness of trunk) are proportional to increased mechanical properties, including stiffness and strength. In higher density trunks, failure from bending (as a result of wind forces, for example) is more likely to occur from tensile (pulling) fracture than in lower density trunks, where buckling will most likely occur. The fibre saturation point is the moisture level at which further drying has limited effect on mechanical properties. Up until this point, decreasing moisture content increases properties in wood the same way as increased density. In response to winds or other mechanical stimuli, plants alter their growth through thigmomorphogenesis. The principle factor that affects the properties, resulting in increased stiffness, is the increase in radius this generates. Another key property of trunks is how hollow they are. Less hollow trees are less likely to buckle and more likely to fail through fracture or yielding. Junctions where branches come out of the trunk are the weakest points because they cause a wood-structure called a knot. The contribution that bark has to structural stiffness is minimal.
+
+
+=== Dynamics ===
+When woody plants oscillate in the wind, there is a risk that they will do so at a resonant frequency (yielding the maximum response), which may lead to branches falling off or even uprooting. The risk is high because they naturally vibrate at a frequency similar to that of the turbulent wind's resonance (at peak energy). Although the canopy provides most of the damping effect (lowering the oscillation), structural damping is also of significance. In trees it involves the movement of energy, away from the critical trunk and towards the smaller branches and branchlets. The similarities in natural frequencies in each part of the tree is what enables this. The net effect of these strategies is oscillation damping, which is valuable because it does not require the tree area (and so wind forces) to increase.
+
+
+== Ecology ==
+
+The ecology of living tree trunks is inseparable from the ecology of the trees themselves. Where a tree supports a rich ecology, its trunk does also, by providing key structural and nutritional functions. Tree trunks support plants, like epiphytes which grow directly on the tree, as well as invertebrates and animals.
+
+
+=== Dead ===
+
+When a tree dies, as a result of, for example, wind, fire, disease, insects, or suppression, it becomes coarse woody debris (CWD). This takes the form of dead standing trees, fallen tree trunks, large branches, or chunks of wood. Later it will turn into fine woody debris. CWD's ecological value is extensive, as demonstrated by its use as a habitat (place for animals to live), establishment of seedlings, nutrient cycling, nitrogen fixation, food value, and sediment transport in rivers.
+There are several mechanisms by which CWD decomposes, thus contributing to nutrient cycling. These are: leaching, where water diffuses through CWD and removes minerals; fragmentation, mechanically both by animals and plants; transport in rivers, both mechanically and microbially; collapse, when the tree cannot support its own weight; respiration, performed by microbes; and biological transformation, where CWD is metabolised (broken down) by microbes and invertebrates. Decomposition is affected by factors including: temperature, moisture, oxygen and carbon dioxide levels, nutrient quality of the CWD, size, and organisms present. CWD represents a significant fraction of all above ground nutrient, carbon, and organic matter storage.
+CWD is a critical substrate (living surface) for autotrophs (plants, algae, bacteria etc.) and serves many important ecological roles for them. Autotrophs known to use CWD are many and varied and include: lichens, liverworts, algae, ferns, clubmosses, and both angiosperms and gymnosperms. CWD may provide: just a living surface, for epiphytes; nutrient value for their roots, both from the CWD and on top of the CWD; shade; and preventing of material flowing down hills. CWD is used by many animals as a habitat for a variety of purposes. These include: cover, feeding, reproduction and, to a lesser extent, resting, sleeping, as bridges, and for both roosting and hibernation. Animals recorded using CWD in these ways are varied and include: birds, bats, as well as reptiles, amphibians, and fish. The orientation, size, and shape of CWD affects if and how these animals use it.
+CWD has geomorphic (landform) impacts on both hills and waterways, as well as impacts on the transportation of soil and sediment. Uprooted trees mix and enrich the soil, and logs act to block the movement of soil, water, and sediment down hill. In waterways, CWD has an influence on their size and shape, and plays a crucial role in storing sediment.
+
+
+== Dating ==
+
+Tree rings can be used both to date the age of a tree, using dendrochronology, and to understand the climate under which the tree lived, through dendroclimatology. In dendrochronology, with the exception of trees grown in specific environments (such as near the equator) and under certain pressures (drought), each tree ring generally represents a period of one year of growth.
+In dendroclimatology, the influence of climate on the nature of each annual ring is analysed. Two key measurements are the total width of the ring and the maximum density of the latewood. Higher latewood densities and ring widths correspond to higher average summer temperatures.
+
+
+== Uses ==
+
+Products derived from tree trunks such as timber have been used by humans in construction and a myriad of other ways for thousands of years. It is the only major building material that is grown, and is therefore broadly sustainable, and is strong—especially in compression. Beyond construction and a plethora of wooden products, including paper, it is used also as wood fuel to heat homes, for power generation, and to make charcoal. Resins, which are exuded by plants, can be harvested and used in products such as varnishes. The barks of different trees have a variety of different uses, including: the antimalarial properties of Cinchona; balloons made from Wikstroemia and others, fire extinguisher foam from Quillaja saponaria; dying products from tannins from Acacia mearnsii and others; and cork from Quercus suber. There are many other medicinal uses of trunks and barks. Latex, which is exuded by some trees, is used to produce rubber; a flexible and waterproof material.
+
+
+== In culture ==
+
+Tree trunks are the subject of symbolism, ritual, folk belief, and are used often in both functional and artistic constructions. The idea that trees represent some eternal life force may have begun after humans saw new growth sprouting from old, dead trunks. The shape of tree trunks and branches are similar to the human form, leading to anthropomorphism and representing fertility in some cultures. In parts of North America, and sub-Saharan Africa, people perform ''marriages'' with trees by touching them for long periods. In India, ceremonial marriages are conducted between trees of different species and between people and trees for various ritual purposes. In Greek mythology, humans and nymphs, such as Daphne, are often turned into trees as a way to grant protection to them.
+The structure of trees trunks and branches serves as a metaphor for connection between things in many languages, as in family trees and branches of knowledge. The trunks of trees are significant to many indigenous peoples, both spiritually and for their resources. The Mbuti people of the Democratic Republic of the Congo, for example, make ritual dress, decorated with abstract patterns, from tree bark. The western Warlpiri people of Australia believe that human souls accumulate and are sourced at birth from the trunks of trees. Tree trunks are widely used to make canoes and totem poles, as created by peoples in the Pacific Northwest. In the Chatham Islands of New Zealand, trunks of the tree Corynocarpus laevigatus are carved with arborglyphs, made by the Moriori people.
+
+
+== References ==
+
+
+=== Notes ===
+
+
+=== Citations ===
+
+
+== Bibliography ==

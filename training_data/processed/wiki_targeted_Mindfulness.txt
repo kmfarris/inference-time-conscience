@@ -1,0 +1,406 @@
+Mindfulness is the cognitive skill, usually developed through exercises, of sustaining metacognitive awareness towards the contents of one's own mind and bodily sensations in the present moment. The term mindfulness derives from the Pali word sati, a significant element of Buddhist traditions, and the practice is based on ānāpānasati, Chan, and Tibetan meditation techniques.
+Since the 1990s, secular mindfulness has gained popularity in the West. Individuals who have contributed to the popularity of secular mindfulness in the modern Western context include  Jon Kabat-Zinn and the "father of mindfulness" Thích Nhất Hạnh.
+Clinical psychology and psychiatry since the 1970s have developed a number of therapeutic applications based on mindfulness for helping people experiencing a variety of psychological conditions.
+
+Clinical studies have documented both physical- and mental-health benefits of mindfulness in different patient categories as well as in healthy adults and children.
+Critics have questioned both the commercialization and the over-marketing of mindfulness for health benefits—as well as emphasized the need for more randomized controlled studies, for more methodological details in reported studies and for the use of larger sample sizes.
+
+
+== Definitions ==
+Mindfulness is the cognitive skill, usually developed through meditation or sustained practice, of sustaining metacognitive awareness towards the contents of one's own mind and bodily sensations in the present moment. In particular, it is a type of metacognitive skill involving cognitive processes such as attentional monitoring, attentional regulation, attentional focus reorientation, and subpersonal thought inhibition. Mindful awareness can be oriented towards both internal phenomena, such as thoughts and emotions, and external phenomena, such as speech or other volitional motor actions.
+
+
+=== Psychology ===
+A.M. Hayes and G. Feldman have highlighted that mindfulness can be seen as a strategy that stands in contrast to a strategy of avoidance of emotion on the one hand and to the strategy of emotional over-engagement on the other hand. Mindfulness can also be viewed as a means to develop self-knowledge and wisdom.
+
+
+==== Trait, state and practice ====
+According to Brown, Ryan, and Creswell, definitions of mindfulness are typically selectively interpreted based on who is studying it and how it is applied. Some have viewed mindfulness as a mental state, while others have viewed it as a set of skills and techniques. A distinction can also be made between the state of mindfulness and the trait of mindfulness.
+According to David S. Black, whereas "mindfulness" originally was associated with esoteric beliefs and religion, and "a capacity attainable only by certain people", scientific researchers have translated the term into measurable terms, providing a valid operational definition of mindfulness. Black mentions three possible domains:
+
+A trait, a dispositional characteristic (a relatively long-lasting trait), a person's tendency to more frequently enter into and more easily abide in mindful states;
+A state, an outcome (a state of awareness resulting from mindfulness training), being in a state of present-moment awareness;
+A practice (mindfulness meditation practice itself).
+
+
+==== Trait-like constructs ====
+According to Brown, mindfulness is:
+
+A quality of consciousness manifest in, but not isomorphic with, the activities through which it is enhanced."
+Several mindfulness measures have been developed which are based on self-reporting of trait-like constructs:
+
+Mindful Attention Awareness Scale (MAAS)
+Freiburg Mindfulness Inventory (FMI)
+Kentucky Inventory of Mindfulness Skills (KIMS)
+Cognitive and Affective Mindfulness Scale (CAMS)
+Mindfulness Questionnaire (MQ)
+Revised Cognitive and Affective Mindfulness Scale (CAMS-R)
+Philadelphia Mindfulness Scale (PHLMS)
+
+
+==== State-like phenomenon ====
+According to Bishop, et alia, mindfulness is, "A kind of nonelaborative, nonjudgmental, present-centered awareness in which each thought, feeling, or sensation that arises in the attentional field is acknowledged and accepted as it is."
+
+The Toronto Mindfulness Scale (TMS) measures mindfulness as a state-like phenomenon, that is evoked and maintained by regular practice.
+The State Mindfulness Scale (SMS) is a 21-item survey with an overall state mindfulness scale, and 2 sub-scales (state mindfulness of mind, and state mindfulness of body).
+
+
+==== Mindfulness-practice ====
+Mindfulness as a practice is described as:
+
+"a way of paying attention that originated in Eastern meditation practices"
+"Paying attention in a particular way: on purpose, in the present moment, and nonjudgmentally"
+"Bringing one's complete attention to the present experience on a moment-to-moment basis"
+According to Steven F. Hick, mindfulness practice involves both formal and informal meditation practices, and nonmeditation-based exercises. Formal mindfulness, or meditation, is the practice of sustaining attention on body, breath or sensations, or whatever arises in each moment. Informal mindfulness is the application of mindful attention in everyday life. Nonmeditation-based exercises are specifically used in dialectical behavior therapy and in acceptance and commitment therapy.
+
+
+=== Buddhism ===
+Secular mindfulness is derived from Buddhist meditation techniques; the word "mindfulness" translates the terms sati and smriti.
+
+
+==== Sati and smṛti ====
+
+The Buddhist term translated into English as "mindfulness" originates in the Pali term sati and in its Sanskrit counterpart  smṛti. It is often translated as "bare attention", but in the Buddhist tradition it has a broader meaning and application, and the meaning of these terms has become the topic of extensive debate and discussion.
+According to Bryan Levman, "the word sati incorporates the meaning of 'memory' and 'remembrance' in much of its usage in both the suttas and the [traditional Buddhist] commentary, and ... without the memory component, the notion of mindfulness cannot be properly understood or applied, as mindfulness requires memory for its effectiveness".
+According to Robert Sharf, smṛti originally meant "to remember", "to recollect", "to bear in mind", as in the Vedic tradition of remembering the sacred texts. The term sati also means "to remember". In the Satipaṭṭhāna-sutta the term sati means to remember the dharmas, whereby the true nature of phenomena can be seen. Sharf refers to the Milindapañha, which said that the arising of sati calls to mind the wholesome dhammas such as the four foundations of mindfulness, the five faculties, the five powers, the seven awakening-factors, the noble eightfold path, and the attainment of insight. According to Rupert Gethin, 
+
+[sati] should be understood as what allows awareness of the full range and extent of dhammas; sati is an awareness of things in relation to things, and hence an awareness of their relative value. Applied to the satipaṭṭhānas, presumably what this means is that sati is what causes the practitioner of yoga to "remember" that any feeling he may experience exists in relation to a whole variety or world of feelings that may be skillful or unskillful, with faults or faultless, relatively inferior or refined, dark or pure."
+Sharf further notes that this has little to do with "bare attention", the popular contemporary interpretation of sati, "since it entails, among other things, the proper discrimination of the moral valence of phenomena as they arise."
+Georges Dreyfus has also expressed unease with the definition of mindfulness as "bare attention" or "nonelaborative, nonjudgmental, present-centered awareness", stressing that mindfulness in a Buddhist context also means "remembering", which indicates that the function of mindfulness also includes the retention of information.
+Robert H. Sharf notes that Buddhist practice is aimed at the attainment of "correct view", not just "bare attention". Jay L. Garfield, quoting Shantideva and other sources, stresses that mindfulness is constituted by the union of two functions, calling to mind and vigilantly retaining in mind. He demonstrates that there is a direct connection between the practice of mindfulness and the cultivation of morality—at least in the context of Buddhism, from which modern interpretations of mindfulness are stemming.
+
+
+==== Translation ====
+The Pali-language scholar Thomas William Rhys Davids (1843–1922) first translated sati in 1881 as English mindfulness in sammā-sati "Right Mindfulness; the active, watchful mind". Noting that Daniel John Gogerly (1845) initially rendered sammā-sati as "correct meditation", Davids writes: 
+
+sati is literally 'memory' but is used with reference to the constantly repeated phrase 'mindful and thoughtful' (sato sampajâno); and means that activity of mind and constant presence of mind which is one of the duties most frequently inculcated on the good Buddhist."
+
+
+==== Alternative translations ====
+John D. Dunne says that the translation of sati and smṛti as mindfulness is confusing. A number of Buddhist scholars have started trying to establish "retention" as the preferred alternative. Bhikkhu Bodhi also describes the meaning of sati as "memory". The terms sati/smṛti have been translated as:
+
+
+==== Memory ====
+The Pali word sati, which is commonly translated as "mindfulness", also carries the connotation of memory. Early Buddhist texts describe the concept not only as awareness of sense perceptions but also as recollection of the Buddha's teachings and past events:
+
+ Sati is required not only to fully take in the moment to be remembered, but also to bring this moment back to mind at a later time. [...] This twofold character of sati can also be found in some verses in the Sutta Nipāta, which instruct the listener to set out with sati, subsequent to an instruction given by the Buddha. In these instances sati seems to combine both present moment awareness and remembering what the Buddha had taught.
+
+According to American Buddhist monk Ven Bhante Vimalaramsi's book A Guide to Tranquil Wisdom Insight Meditation, the term "mindfulness" is often interpreted differently than what was originally formulated by the Buddha. In the context of Buddhism, he offers the following definition:
+
+Mindfulness means to remember to observe how mind's attention moves from one thing to another. The first part of Mindfulness is to remember to watch the mind and remember to return to your object of meditation when you have wandered off. The second part of Mindfulness is to observe how mind's attention moves from one thing to another.
+
+In Thich Nhat Hanh's lineage, mindfulness is closely intertwined with the concept of interbeing, the notion that all things are interconnected. This school of thought emphasizes awareness of the present moment and ethical living, reflecting the interconnected nature of existence.
+
+
+=== Definitions arising in modern teaching of meditation ===
+Since the 1970s, most books on meditation use definitions of mindfulness similar to Jon Kabat-Zinn's definition as "present moment awareness". However, recently a number of teachers of meditation have proposed quite different definitions of mindfulness. Shinzen Young says a person is mindful when they have mindful awareness, and defines that to be when "concentration power, sensory clarity, and equanimity [are] working together." John Yates (Culadasa) defines mindfulness to be "the optimal interaction between attention and peripheral awareness", where he distinguishes attention and peripheral awareness as two distinct modes in which one may be conscious of things. Thích Nhất Hạnh defined mindfulness as "the energy that sheds light on all things and all activities, producing the power of concentration, bringing forth deep insight and awakening."
+
+
+=== Other uses ===
+The English term mindfulness already existed before it came to be used in a (western) Buddhist context. It was first recorded as myndfulness in 1530 (John Palsgrave translates French pensée), as mindfulnesse in 1561, and mindfulness in 1817. Morphologically earlier terms include mindful (first recorded in 1340), mindfully (1382), and the obsolete mindiness (c. 1200).
+According to the Merriam-Webster Dictionary, mindfulness may also refer to "a state of being aware". Synonyms for this "state of being aware" are wakefulness, attention, alertness, prudence, conscientiousness, awareness, consciousness, and observation.
+
+
+== Historical development ==
+
+
+=== Buddhism ===
+Mindfulness as a modern, Western practice is founded on Zen and modern Vipassanā, and involves the training of sati, which means "moment to moment awareness of present events", but also "remembering to be aware of something".
+
+
+==== Early Buddhism ====
+Sati is one of the seven factors of enlightenment. "Correct" or "right" mindfulness (Pali: sammā-sati, Sanskrit samyak-smṛti) is the seventh element of the Noble Eightfold Path. Mindfulness is an antidote to delusion and is considered as a 'power' (Pali: bala) which contributes to the attainment of Nibbana. This faculty becomes a power in particular when it is coupled with clear comprehension of whatever is taking place. Nirvana is a state of being in which greed, hatred and delusion (Pali: moha) have been overcome and abandoned, and are absent from the mind.
+According to Paul Williams, referring to Erich Frauwallner, mindfulness provided the way in Early Buddhism to liberation, "constantly watching sensory experience in order to prevent the arising of cravings which would power future experience into rebirths." According to Vetter, Jhanas may have been the original core practice of the Buddha, which aided the maintenance of mindfulness.
+According to Thomas William Rhys Davids, the doctrine of mindfulness is "perhaps the most important" after the Four Noble Truths and the Noble Eightfold Path. T.W. Rhys Davids viewed the teachings of Gotama Buddha as a rational technique for self-actualization and rejected a few parts of it, mainly the doctrine of rebirth, as residual superstitions.
+
+
+==== Zazen ====
+
+The aim of zazen is just sitting, that is, suspending all judgmental thinking and letting words, ideas, images and thoughts pass by without getting involved in them.
+
+
+==== Contemporary Vipassana-meditation ====
+In modern vipassana-meditation, as propagated by the Vipassana movement, sati aids vipassana, insight into the true nature of reality, namely the three marks of existence, the impermanence of and the suffering of every conditioned thing that exists, and non-self. With this insight, the practitioner becomes a so-called Sotāpanna, a "stream-enterer", the first stage on the path to liberation.
+Vipassana is practiced in tandem with Samatha, and also plays a central role in other Buddhist traditions. According to the contemporary Theravada orthodoxy, Samatha is used as a preparation for Vipassanā, pacifying the mind and strengthening the concentration in order to allow the work of insight, which leads to liberation.
+Vipassanā-meditation has gained popularity in the west through the modern Buddhist vipassana movement, modeled after Theravāda Buddhism meditation practices, which employs vipassanā and ānāpāna meditation as its primary techniques and places emphasis on the teachings of the Satipaṭṭhāna Sutta.
+
+
+==== Anapanasati, satipaṭṭhāna, and vipassana ====
+Anapanasati is mindfulness of breathing. "Sati" means mindfulness; "ānāpāna" refers to inhalation and exhalation. Anapanasati means to feel the sensations caused by the movements of the breath in the body. The Anapanasati Sutta gives an exposition on this practice.
+Satipaṭṭhāna is the establishment of mindfulness in one's day-to-day life, maintaining as much as possible a calm awareness of one's body, feelings, mind, and dhammas. The practice of mindfulness supports analysis resulting in the arising of wisdom (Pali: paññā, Sanskrit: prajñā).
+
+
+==== Samprajaña, apramāda and atappa ====
+In contemporary Theravada practice, "mindfulness" also includes samprajaña, meaning "clear comprehension" and apramāda meaning "vigilance". All three terms are sometimes (confusingly) translated as "mindfulness", but they all have specific shades of meaning.
+In a publicly available correspondence between Bhikkhu Bodhi and B. Alan Wallace, Bodhi has described Ven. Nyanaponika Thera's views on "right mindfulness" and sampajañña as follows:
+
+He held that in the proper practice of right mindfulness, sati has to be integrated with sampajañña, clear comprehension, and it is only when these two work together that right mindfulness can fulfill its intended purpose.
+
+
+==== Monitoring mental processes ====
+According to Buddhadasa, the aim of mindfulness is to stop the arising of disturbing thoughts and emotions, which arise from sense-contact.
+According to Grzegorz Polak, the four upassanā (foundations of mindfulness) have been misunderstood by the developing Buddhist tradition, including Theravada, to refer to four different foundations. According to Polak, the four upassanā do not refer to four different foundations, but to the awareness of four different aspects of raising mindfulness:
+
+the six sense-bases which one needs to be aware of (kāyānupassanā);
+contemplation on vedanās, which arise with the contact between the senses and their objects (vedanānupassanā);
+the altered states of mind to which this practice leads (cittānupassanā);
+the development from the five hindrances to the seven factors of enlightenment (dhammānupassanā).
+
+
+=== Stoicism ===
+The Greek philosophical school of Stoicism founded by Zeno of Citium included practices resembling those of mindfulness, such as visualization exercises. In his Discourses, Stoic philosopher Epictetus addresses in particular the concept of attention (prosoche), an idea also found in Seneca and Marcus Aurelius. By cultivating it over time, this skill would prevent the practitioner from becoming unattentive and moved by instinct rather than according to reason.
+
+
+=== Christianity ===
+Mindfulness traditions are also found in some Christian spiritual traditions. In his Rules for Eating, St. Ignatius of Loyola teaches, "let him guard against all his soul being intent on what he is eating, and in eating let him not go hurriedly, through appetite, but be master of himself, as well in the manner of eating as in the quantity which he eats." He might have been inspired by Epictetus' Enchiridion.
+In addition, Jesus himself, in his Sermon on the Mount, said, "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own."—Matthew 6:34, NIV,
+
+
+=== Transcendentalism ===
+Mindfulness practitioner Jon Kabat-Zinn refers to Thoreau as a predecessor of the interest in mindfulness, together with other eminent Transcendentalists such as Emerson and Whitman:
+
+The collective experience of sages, yogis, and Zen masters offers a view of the world which is complementary to the predominantly reductionist and materialistic one currently dominating Western thought and institutions. But this view is neither particularly "Eastern" nor mystical. Thoreau saw the same problem with our ordinary mind state in New England in 1846 and wrote with great passion about its unfortunate consequences.
+The forms of Asian religion and spirituality which were introduced in the west were themselves influenced by Transcendentalism and other 19th-century manifestations of Western esotericism. Transcendentalism was closely connected to the Unitarian Church, which in India collaborated with Ram Mohan Roy (1772–1833) and his Brahmo Samaj. He found that Unitarianism came closest to true Christianity, and had a strong sympathy for the Unitarians. This influence worked through on Vivekananda, whose modern but idiosyncratic interpretation of Hinduism became widely popular in the west. Vipassana meditation, presented as a centuries-old meditation system, was a 19th-century reinvention, which gained popularity in south-east due to the accessibility of the Buddhist sutras through English translations from the Pali Text Society. It was brought to western attention in the 19th century by the Theosophical Society. Zen Buddhism first gained popularity in the west through the writings of D.T. Suzuki, who attempted to present a modern interpretation of Zen, adjusted to western tastes.
+
+
+=== Jon Kabat-Zinn and MBSR ===
+
+In 1979, Jon Kabat-Zinn founded the Mindfulness-Based Stress Reduction (MBSR) program at the University of Massachusetts to treat the chronically ill. This program sparked the application of mindfulness ideas and practices in Medicine for the treatment of a variety of conditions in both healthy and unhealthy people. MBSR and similar programs are now widely applied in schools, prisons, hospitals, veterans centers, and other environments.
+Mindfulness practices were inspired mainly by teachings from the Eastern World, particularly from Buddhist traditions. Kabat-Zinn was first introduced to meditation by Philip Kapleau, a Zen missionary who came to speak at MIT where Kabat-Zinn was a student. Kabat-Zinn went on to study meditation with other Zen-Buddhist teachers such as Thích Nhất Hạnh and Seungsahn. He also studied at the Insight Meditation Society and eventually taught there. One of MBSR's techniques—the "body scan"—was derived from a meditation practice ("sweeping") of the Burmese U Ba Khin tradition, as taught by S. N. Goenka in his Vipassana retreats, which he began in 1976. The body scan method has since been widely adapted to secular settings, independent of religious or cultural contexts.
+Kabat-Zinn was also influenced by the book The Varieties of Religious Experience by William James which suggests that religions point toward the same experience, and which 1960s counterculture figures interpreted as meaning that the same universal, experiential truth could be reached in different ways, including via non-religious activities.
+
+
+=== Popularization, "mindfulness movement" ===
+Mindfulness is gaining a growing popularity as a practice in daily life, apart from Buddhist insight meditation and its application in clinical psychology. In this context mindfulness is defined as moment-by-moment awareness of thoughts, feelings, bodily sensations, and surrounding environment, characterized mainly by "acceptance"—attention to thoughts and feelings without judging whether they are right or wrong. Mindfulness focuses the human brain on what is being sensed at each moment, instead of on its normal rumination on the past or the future. Mindfulness may be seen as a mode of being, and can be practiced outside a formal setting. The terminology used by scholars of religion, scientists, journalists, and popular media writers to describe this movement of mindfulness "popularization," and the many new contexts of mindfulness practice which have cropped up, has regularly evolved over the past 20 years, with some criticisms arising. It has also recently been a common trend to see among sport teams, with mindfulness practices being integrated as parts of teams routines.
+The latest changes when people moved from real-life meditation sessions to the applications on their smart devices has been even more accelerated by the global pandemic. Modern applications are adapting to the needs of their users by using AI technology, involving professional psychologists and offering many different mindfulness approaches to serve a wider audience, such as among athletes.
+
+
+== Practice ==
+Mindfulness practice involves the process of developing the skill of bringing one's attention to whatever is happening in the present moment.
+
+
+=== Watching the breath, body-scan and other techniques ===
+There are several exercises designed to develop mindfulness meditation, which may be aided by guided meditations "to get the hang of it".  As forms of self-observation and interoception, these methods increase awareness of the body, so they are usually beneficial to people with low self-awareness or low awareness of their bodies or emotional state. However, it may provoke anxiety, panic attacks, depression, and dissociation, in people who are very focused on themselves, their bodies, and their emotions.
+
+One method is to sit in a straight-backed chair or sit cross-legged on the floor, or a cushion, close one's eyes and bring attention to either the sensations of breathing in the proximity of one's nostrils or to the movements of the abdomen when breathing in and out. In this meditation practice, one does not try to control one's breathing, but attempts to simply be aware of one's natural breathing process/rhythm. When engaged in this practice, the mind will often run off to other thoughts and associations, if this happens, one passively notices that the mind has wandered, and in an accepting, but non-judgmental way, returns to focusing on breathing.
+In body-scan meditation the attention is directed at various areas of the body and noting body sensations that happen in the present moment.
+One could also focus on sounds, sensations, thoughts, feelings and actions that happen in the present. In this regard, a famous exercise, introduced by Kabat-Zinn in his MBSR program, is the mindful tasting of a raisin, in which a raisin is being tasted and eaten mindfully. By enabling reconnection with internal hunger and satiety cues, mindful eating has been suggested to be a means of maintaining healthy and conscious eating patterns.
+Other approaches include practicing yoga asanas while attending to movements and body sensations, and walking meditation.
+
+
+=== Timings ===
+Meditators are recommended to start with short periods of 10 minutes or so of meditation practice per day. As one practices regularly, it becomes easier to keep the attention focused on breathing. An old Zen saying suggests, "You should sit in meditation for 20 minutes every day — unless you're too busy. Then you should sit for an hour."
+
+
+=== In Buddhist context; moral precepts ===
+In a Buddhist context the keeping of moral precepts is an essential preparatory stage for mindfulness or meditation. Vipassana also includes contemplation and reflection on phenomena as dukkha, anatta and anicca, and reflections on causation and other Buddhist teachings.
+
+
+== Models and frameworks for mindfulness practices ==
+
+
+=== Two-component model ===
+A two-component model of mindfulness based upon a consensus among clinical psychologists has been proposed as an operational and testable definition, : 
+
+The first component involves the self-regulation of attention so that it is maintained on immediate experience, thereby allowing for increased recognition of mental events in the present moment. The second component involves adopting a particular orientation toward one's experiences in the present moment, an orientation that is characterized by curiosity, openness, and acceptance.
+In this two-component model, self-regulated attention (the first component) "involves bringing awareness to current experience—observing and attending to the changing fields of "objects" (thoughts, feelings, sensations), from moment to moment – by regulating the focus of attention". Orientation to experience (the second component) involves maintaining an attitude of curiosity about objects experienced at each moment, and about where and how the mind wanders when it drifts from the selected focus of attention. Clients are asked to avoid trying to produce a particular state (e.g. relaxation), but rather to just notice each object that arises in the stream of consciousness.
+
+
+=== The five-aggregate model ===
+An ancient model of the mind, generally known as the five-aggregate model enables one to understand the moment-to-moment manifestation of subjective conscious experience, and therefore can be a potentially useful theoretical resource to guide mindfulness interventions.  This model is based upon the traditional buddhist description of the Skandhas.
+The five aggregates are described as follows:
+
+Material form: includes both the physical body and external matter where material elements are continuously moving to and from the material body.
+Feelings: can be pleasant, unpleasant or neutral.
+Perceptions: represent being aware of attributes of an object (e.g. color, shape, etc.)
+Volition: represents bodily, verbal, or psychological behavior.
+Sensory consciousness: refers to input from the five senses (seeing, hearing, smelling, tasting or touch sensations) or a thought that happens to arise in the mind.
+This model describes how sensory consciousness results in the generation of feelings, perception or volition, and how individuals' previously conditioned attitudes and past associations influence this generation. The five aggregates are described as constantly arising and ceasing in the present moment.
+
+
+=== Cultivating self-knowledge and wisdom ===
+The practice of mindfulness can be utilized to gradually develop self-knowledge and wisdom. In this regard, Buddhist teachings provide detailed instructions on how one can carry out an inquiry into the nature of the mind, and this guidance can help one to make sense of one's subjective experience. This could include understanding what the "present moment" is, how various thoughts, etc., arise following input from the senses, the conditioned nature of thoughts, and other realizations. In Buddhist teachings, ultimate wisdom refers to gaining deep insight into all phenomena or "seeing things as they are."
+
+
+== Applications ==
+
+According to Jon Kabat-Zinn the practice of mindfulness may be beneficial to many people in Western society who might be unwilling to adopt Buddhist traditions or vocabulary. Western researchers and clinicians who have introduced mindfulness practice into mental health treatment programs usually teach these skills independently of the religious and cultural traditions of their origins. Programs based on MBSR and similar models have been widely adopted in schools, prisons, hospitals, veterans centers, and other environments.
+
+
+=== Therapy programs ===
+
+
+==== Mindfulness-based stress reduction ====
+
+Mindfulness-based stress reduction (MBSR) is a mindfulness-based program developed by Jon Kabat-Zinn at the University of Massachusetts Medical Center, which uses a combination of mindfulness meditation, body awareness, and yoga to help people become more mindful. While MBSR has its roots in spiritual teachings, the program itself is secular.
+
+
+==== Mindfulness-based cognitive therapy ====
+
+Mindfulness-based cognitive therapy (MBCT) is a psychological therapy designed to aid in preventing the relapse of depression, specifically in individuals with Major depressive disorder (MDD). It uses traditional cognitive behavioral therapy (CBT) methods and adds in newer psychological strategies such as mindfulness and mindfulness meditation. Cognitive methods can include educating the participant about depression. Mindfulness and mindfulness meditation focus on becoming aware of all incoming thoughts and feelings and accepting them, but not attaching or reacting to them.
+Like CBT, MBCT functions on the theory that when individuals who have historically had depression become distressed, they return to automatic cognitive processes that can trigger a depressive episode. The goal of MBCT is to interrupt these automatic processes and teach the participants to focus less on reacting to incoming stimuli, and instead accepting and observing them without judgment. This mindfulness practice allows the participant to notice when automatic processes are occurring and to alter their reaction to be more of a reflection. 
+Research supports the effects of MBCT in people who have been depressed three or more times and demonstrates reduced relapse rates by 50%.
+
+
+==== Mindfulness-based pain management ====
+
+Mindfulness-based pain management (MBPM) is a mindfulness-based intervention (MBI) providing specific applications for people living with chronic pain and illness. Adapting the core concepts and practices of mindfulness-based stress reduction (MBSR) and mindfulness-based cognitive therapy (MBCT), MBPM includes a distinctive emphasis on the practice of 'loving-kindness', and has been seen as sensitive to concerns about removing mindfulness teaching from its original ethical framework. It was developed by Vidyamala Burch and is delivered through the programs of Breathworks. It has been subject to a range of clinical studies demonstrating its effectiveness.
+
+
+==== Acceptance and commitment therapy ====
+
+Acceptance and commitment therapy or (ACT) (typically pronounced as the word "act") is a form of clinical behavior analysis (CBA) used in psychotherapy. It is a psychological intervention that uses acceptance and mindfulness strategies mixed in different ways with commitment and behavior-change strategies, to increase psychological flexibility. The approach was originally called comprehensive distancing. It was developed in the late 1980s by Steven C. Hayes, Kelly G. Wilson, and Kirk Strosahl.
+
+
+==== Dialectical behavior therapy ====
+
+Mindfulness is a "core" exercise used in dialectical behavior therapy (DBT), a psychosocial treatment Marsha M. Linehan developed for treating people with borderline personality disorder. DBT is dialectic, says Linehan, in the sense of "the reconciliation of opposites in a continual process of synthesis." As a practitioner of Buddhist meditation techniques, Linehan says:
+
+This emphasis in DBT on a balance of acceptance and change owes much to my experiences in studying meditation and Eastern spirituality. The DBT tenets of observing, mindfulness, and avoidance of judgment are all derived from the study and practice of Zen meditations.
+
+
+==== Mode deactivation therapy ====
+
+Mode deactivation therapy (MDT) is a treatment methodology that is derived from the principles of cognitive-behavioral therapy and incorporates elements of Acceptance and commitment therapy, Dialectical behavior therapy, and mindfulness techniques. 
+Mindfulness techniques such as simple breathing exercises are applied to assist the client in awareness and non-judgmental acceptance of unpleasant and distressing thoughts and feelings as they occur in the present moment. 
+Mode Deactivation Therapy was developed and is established as an effective treatment for adolescents with problem behaviors and complex trauma-related psychological problems, according to recent publications by Jack A. Apsche and Joan Swart.
+
+
+==== Other programs ====
+Morita therapy
+The Japanese psychiatrist Shoma Morita, who trained in Zen meditation, developed Morita therapy upon principles of mindfulness and non-attachment.
+
+IFS
+Internal Family Systems Model (IFS), developed by Richard C. Schwartz, emphasizes the importance of both therapist and client engaging in therapy from the Self, which is the IFS term for one's "spiritual center". The Self is curious about whatever arises in one's present experience and open and accepting toward all manifestations.
+
+Mindfulness relaxation
+Mindfulness relaxation uses breathing methods, guided imagery, and other practices to relax the body and mind and help reduce stress.
+
+
+=== Schools ===
+In 2012 Congressman Tim Ryan of Ohio published A Mindful Nation, and received a $1 million federal grant to teach mindfulness in schools in his home district.
+Mindful Kids Miami is a tax-exempt, 501 (c)(3), non-profit corporation established in 2011 dedicated to making age-appropriate mindfulness training available to school children in Miami-Dade County public and private schools. This is primarily accomplished by training educators and other childcare providers to incorporate mindfulness practices in the children's daily activities.
+In 2000, The Inner Kids Program, a mindfulness-based program developed for children, was introduced into public and private school curricula in the greater Los Angeles area.
+MindUP, a classroom-based program spearheaded by Goldie Hawn's Hawn Foundation, teaches students to self-regulate behavior and mindfully engage in focused concentration required for academic success. For the last decade, MindUP has trained teachers in over 1,000 schools in cities from Arizona to Washington.
+The Holistic Life Foundation, a non-profit organization that created an in-school mindfulness program called Mindful Moment, is currently serving almost 350 students daily at Robert W. Coleman Elementary School and approximately 1300 students at Patterson Park High School in Baltimore, Maryland. At Patterson High School, the Mindful Moment program engages the school's faculty along with the students during a 15-minute mindfulness practice at the beginning and end of each school day.
+Mindful Life Project, a non-profit 501(c)3 based out of Richmond, California, teaches mindfulness to elementary school students in underserved schools in the South Richmond school district. Utilizing curriculum, "Rise-Up" is a regular school day intervention program serving 430 students weekly, while "Mindful Community" is currently implemented at six South Richmond partner schools. These in-school mindfulness programs have been endorsed by Richmond Mayor Gayle McLaughlin, who has recommended additional funding to expand the program in order to serve all Richmond youth.
+
+
+=== Education ===
+Mindfulness practices are becoming more common within educational institutions including Elementary and Secondary schools. This has been referred to as part of a 'contemplative turn' in education that has emerged since the turn of the millennium. The applications of mindfulness in schools are aimed at calming and relaxation of students as well as for students and educators to build compassion and empathy for others. An additional benefit to Mindfulness in education is for the practice to reduce anxiety and stress in students. Based on a broad meta-analytical review, scholars said that the application of mindfulness practice enhances the goals of education in the 21st century, which include adapting to a rapidly changing world and being a caring and committed citizen. Within educational systems, the application of mindfulness practices shows an improvement of students' attention and focus, emotional regulation, creativity, and problem solving skills. As discussed by Ergas and Todd, the development of this field since the turn of the millennium has brought diverse possibilities as well as complexities, given the origins of mindfulness within Buddhism and the processes of its secularization and measurement based on science.
+Renshaw and Cook state, "As scientific interest in the utility of Mindfulness-Based Intervention (MBI) in schools grew steadily, popular interest in mindfulness in schools seemed to grow exponentially". Despite research on mindfulness being comparatively unexamined, especially with young students, the practice has seen a spike in use within the educational arena. "A relatively recent addition to discourse around preventing school expulsion and failure, mindfulness is gaining popularity for its potential to improve students' social, emotional, behavioral, and learning-related cognitive control, thereby improving academic outcomes". Researchers and educators are interested in how mindfulness can provide optimal conditions for a students' personal development and academic success. Current research on mindfulness in education is limited but can provide insight into the potential benefits for students, and areas of improvement for future studies.
+Mindfulness in the classroom is being touted as a promising new intervention tool for young students. According to Choudhury and Moses, "Although still marginal and in some cases controversial, secular programs of mindfulness have been implemented with ambitious goals of improving attentional focus of pupils, social-emotional learning in "at-risk" children and youth, not least, to intervene in problems of poverty and incarceration". Emerging research is concerned with studying teachers and programs using mindfulness practices with students and is discovering tension arising from the moral reframing of eastern practices in western school settings. As cited by Renshaw and Cook, "Unlike most other approaches to contemporary school-based intervention, which are squarely grounded in behavioral, cognitive-behavioral, and ecological systems theories, MBIs have their origins in Eastern religious traditions". Some school administrators are concerned about implementing such practices, and parents have been reported to take their children out of mindfulness programs because of their personal religious beliefs. Yet, MBIs continue to be accepted by the mainstream in both primary and secondary schools because, "Mindfulness practices, particularly in relation to children who might otherwise be considered broken or unredeemable, fill a critical niche – one that allows its advocates to imagine a world where people can change, become more compassionate, resilient, reflective, and aware; a world with a viable future". As mindfulness in education continues to develop, ethical consequences will remain a controversial issue because the generic description for the "benefits" and "results" of MBIs are largely concerned with individual and inward-focused achievement, rather than the original Buddhist ideal of global human connection.
+Available research reveals a relationship between mindfulness and attention. Semple, Lee, Rosa, & Miller say, "Anxiety can impair attention and promote emotionally reactive behaviors that interfere with the development of good study skills, so it seems reasonable that increased mindfulness would be associated with less anxiety". They conducted a randomized trial of Mindfulness-Based Cognitive Therapy for Children (MBCT-C) that found promise in managing anxiety for elementary school-aged children, and suggests that those who completed the program displayed fewer attention problems. In addition, Flook shows how an eight-week mindfulness awareness program was evaluated in a random and controlled school setting and measured the effects of awareness practices on executive functions in elementary school children. Their findings concluded, "Participation in the mindfulness awareness program was associated with improvements in behavioral regulation, metacognition, and overall executive functions". In the study by Flook, parents and teachers completed questionnaires which propose that participation in mindfulness programs is associated with improvements in child behavioral regulation. These perspectives are a valuable source of data given that caregivers and educators interact with the children daily and across a variety of settings. According to Eklund, Omalley, and Meyer, "School-based practitioners should find promise in the evidence supporting mindfulness-based practices with children, parents, and educators". Lastly, a third study by Zenner, Herrnleben-Kurz, and Walach concluded, "Analysis suggest that mindfulness-based interventions for children and youths are able to increase cognitive capacity of attending and learning by nearly one standard deviation and yield". Application of Mindfulness-Based Interventions continue to increase in popularity and practice.
+Mindfulness-Based Interventions are rising across western culture, but its effectiveness in school programs is still being determined. Research contends, "Mindfulness-based approaches for adults are effective at enhancing mental health, but few controlled trials have evaluated their effectiveness among young people". Although much of the available studies find a high number of mindfulness acceptability among students and teachers, more research needs to be conducted on its effects on well-being and mental health for students. In a firmly controlled experiment, Johnson, Burke, Brinkman, and Wade evaluated "the impact of an existing and widely available school-based mindfulness program". According to their research, "no improvements were demonstrated on any outcome measured either immediately post-intervention or at three-month follow-up". Many questions remain on which practices best implement effective and reliable mindfulness programs at schools, and further research is needed to identify the optimal methods and measurement tools for mindfulness in education.
+
+
+=== Business ===
+Mindfulness training appears to be getting popular in the business world, and many large corporations have been incorporating mindfulness practices into their culture. For example, companies such as Google, Apple, Procter & Gamble, General Mills, Mayo Clinic, and the U.S. Army offer mindfulness coaching, meditation breaks and other resources to their employees to improve workplace functioning.
+The introduction of mindfulness in corporate settings still remains in early stages and its potential long-term impact requires further assessment. Mindfulness has been found to result in better employee well-being, lower levels of frustration, lower absenteeism and burnout as well as an improved overall work environment.
+
+
+=== Law ===
+Legal and law enforcement organizations are also showing interest in mindfulness:
+
+Harvard Law School's Program on Negotiation hosted a workshop on "Mindfulness in the Law & Alternative Dispute Resolution."
+Many law firms offer mindfulness classes.
+
+
+=== Prison-programs ===
+Mindfulness has been taught in prisons, reducing hostility and mood disturbance among inmates, and improving their self-esteem. Additional studies indicate that mindfulness interventions can result in significant reductions in anger, reductions in substance use, increased relaxation capacity, self-regulation and optimism.
+
+
+=== Government ===
+Many government organizations offer mindfulness training. Coping Strategies is an example of a program utilized by United States Armed Forces personnel. The British Parliament organized a mindfulness-session for its members in 2014, led by Ruby Wax.
+
+
+== Scientific research ==
+
+
+=== Effects and efficacy of mindfulness practice ===
+Mindfulness has gained increasing empirical attention since 1970 and has been studied often as an intervention for stress reduction. Meta analyses indicate its beneficial effects for healthy adults, for adolescents and children, as well as for different health-related outcomes including weight management, psychiatric conditions, heart disease, sleep disorders, cancer care, adult autism treatment, multiple sclerosis, and other health-related conditions. An often-cited meta-analysis on meditation research published in JAMA in 2014, found insufficient evidence of any effect of meditation programs on positive mood, attention, substance use, eating habits, sleep, and weight, but found that there is moderate evidence that meditation reduces anxiety, depression, and pain. However, this study included a highly heterogeneous group of meditation styles (i.e., it did not focus exclusively on mindfulness meditation), which is a significant limitation of this study. Additionally, while mindfulness is well known to have positive psychological effects among individuals diagnosed with various types of cancers, the evidence is unclear regarding its effectiveness in men with prostate cancer.
+Thousands of studies on meditation have been conducted, though the methodological quality of some of the studies is poor. Recent reviews have described many of these issues. Nonetheless, mindfulness meditation is a popular subject for research, and many present potential benefits for a wide array of conditions and outcomes. For example, the practice of mindfulness has also been used to improve athletic performance, as a beneficial intervention for children with special needs and their caregivers, as a viable treatment option for people with insomnia an effective intervention for healthy aging, as a strategy for managing dermatological conditions and as a useful intervention during early pregnancy. Recent studies have also demonstrated that mindfulness meditation significantly attenuates physical pain through multiple, unique mechanisms. Meditation also may allow one to modulate pain. When exposed to pain from heating, the brain scans of the mindfulness meditation participants (by use of functional magnetic resonance imaging) showed their brains notice the pain equally, however it does not get converted to a perceived pain signal. As such they experienced up to 40–50% less pain.
+Research has also investigated mindful movements and mindful exercises for different patient populations.
+Mindfulness practices have also been associated with the development of psychological resilience. Regular mindfulness meditation can help individuals facing trauma or chronic stress to regulate emotions, reduce rumination, and strengthen adaptive coping mechanisms.
+
+
+=== Neurological studies ===
+Research studies have also focused on the effects of mindfulness on the brain using neuroimaging techniques, physiological measures and behavioral tests. Research on the neural perspective of how mindfulness meditation works suggests that it exerts its effects in components of attention regulation, body awareness and emotional regulation. When considering aspects such as sense of responsibility, authenticity, compassion, self-acceptance and character, studies have shown that mindfulness meditation contributes to a more coherent and healthy sense of self and identity. Neuroimaging techniques suggest that mindfulness practices such as mindfulness meditation are associated with "changes in the anterior cingulate cortex, insula, temporo-parietal junction, fronto-limbic network and default mode network structures." Further, mindfulness meditation may prevent or delay the onset of mild cognitive impairment and Alzheimer's disease. Additionally, mindfulness-induced emotional and behavioral changes have been found to be related to functional and structural changes in the brain. It has also been suggested that the default mode network of the brain can be used as a potential biomarker for monitoring the therapeutic benefits of meditation. Recent research also suggest that the practice of mindfulness could influence genetic expression leading to a reduced risk of inflammation-related diseases and favourable changes in biomarkers.
+Grey matter concentrations in brain regions that regulate emotion, self-referential processing, learning and memory processes have shown changes in density following MBSR. Additionally, MBSR practice has been associated with improvement of the immune system which could explain the correlation between stress reduction and increased quality of life. Part of these changes are a result of the thickening of the prefrontal cortex (executive functioning) and hippocampus (learning and memorisation ability), the shrinking of the amygdala (emotion and stress response) and the strengthening of the connections between brain cells. Long-term meditators have larger amounts of gyrification ("folding" of the cortex, which may allow the brain to process information faster) than people who do not meditate. Further, a direct correlation was found between the amount of gyrification and the number of meditation years, possibly providing further proof of the brain's neuroplasticity, or ability to adapt to environmental changes.
+
+
+=== Associations of mindfulness with other variables ===
+Mindfulness (as a trait, distinguished from mindfulness practice) has been linked to many outcomes. In an overview, Keng, Smoski, and Robins summarize: "Trait mindfulness has been associated with higher levels of life satisfaction, agreeableness, conscientiousness, vitality, self esteem, empathy, sense of autonomy, competence, optimism, and pleasant affect. A 2020 study found links between dispositional mindfulness and prosocial behavior. Studies have also demonstrated significant negative correlations between mindfulness and depression, neuroticism, absentmindedness, dissociation, rumination, cognitive reactivity, social anxiety, difficulties in emotion regulation, experiential avoidance, alexithymia, intensity of delusional experience in the context of psychosis, and general psychological symptoms." (References to underlying studies omitted from quotation.)
+
+
+=== Effects on mindfulness ===
+The mechanisms that make people less or more mindful have been researched less than the effects of mindfulness programmes, so little is known about which components of mindfulness practice are relevant for promoting mindfulness. For example, meta-analyses have shown that mindfulness practice does increase mindfulness when compared to active control groups. This may be because we do not know how to measure mindfulness. It could also be that mindfulness is dose-dependent and increases with more experience. To counter that, Bergomi et al. found that "results provide evidence for the associations between self-reported mindfulness and meditation practice and suggest that mindfulness is particularly associated with continued practice in the present, rather than with accumulated practice over years."
+Some research into other mechanisms has been done. One study conceptualized such mechanisms in terms of competition for attention. In a test of that framework, mindfulness was found to be associated (as predicted) with having an activated intention to be mindful, with feeling good, and with not being hurried or very busy. Regarding the relationship between feeling good and being mindful, a different study found that causality probably works both ways: feeling good increases mindfulness, and mindfulness increases feeling good.
+One theory suggests an additional mechanism termed as reperceiving. Reperceiving is the beneficial effect that comes after the process of being mindful after all the intention, attention, and attitude has been experienced. Through reperceiving there is a shift in perspective. Reperceiving permits disassociation from thoughts, emotions, and physical sensations, and allows one to exist with them instead of being defined by them.
+
+
+== Adverse effects ==
+
+Meditation in general (of which mindfulness is just one type) has also been correlated with unpleasant experiences in some individuals. In some cases, it has also been linked to psychosis and suicide. Both the soundness of its scientific foundations and the desirability of its societal effects have been questioned.
+In one cross-sectional online survey, published in 2019, of 1,232 regular meditators with at least two months of meditation experience, about a quarter reported having had particularly unpleasant meditation-related experiences (such as anxiety, fear, distorted emotions or thoughts, altered sense of self or the world), which they thought may have been caused by their meditation practice. This survey used broad group of “regular meditators”, and did not specifically focus on mindfulness meditation. The survey also found that meditators with high levels of repetitive negative thinking and those who only engage in deconstructive meditation were more likely to report unpleasant side effects. Adverse effects were less frequently reported in women and religious meditators.
+Another observational study from 2021 on the effects of mindfulness-based programs (MBPs) found negative side-effects in 37% of the sample while lasting bad effects in 6–14% of the sample. Most of the side effects were related to signs of dysregulated arousal (i.e., hyperarousal and dissociation). There are, however, several other studies that have found no harm following the standard, widely implemented Mindfulness-Based Stress Reduction program.
+Further, while some studies have questioned the effects of mindfulness on prosocial behaviours, review articles on this subject generally indicate that mindfulness promotes prosocial behaviour although more longitudinal studies are needed to confirm this.
+Difficult experiences encountered in meditation are mentioned in traditional sources; and some may be considered to be an expected part of the process, e.g., seven stages of purification mentioned in Theravāda Buddhism. Possible "unwholesome or frightening visions" are mentioned in a practical manual on vipassanā meditation.  Classical sources have various terms for "meditation sickness" and related difficulties, such as zouhuorumo (走火入魔; 'fire possession'), chanbing (禪病; 'Chan disease') and mojing (魔境; 'demonic states'). 
+An article that describes Medieval Chinese Buddhist accounts of such phenomena (in the Journal of Buddhist Ethics) states,
+
+Problematic experiences such as strange sensations, unexplained pains, psychological instability, undesired hallucinations, sexual anomalies, uncontrollable behaviors, demonic possession, suicidality, and so forth seem to be quite well-known and well-documented across traditions.
+A number of Western Buddhist teachers and leaders, however, have asserted that proper instruction from a legitimate, genuinely insightful teacher prevents negative experiences in meditation from escalating into adverse or harmful effects. For example, studies indicate that people who experience adverse effects as fleeting emotions (i.e., seeing them as a passing phase) without identifying with these experiences, are able to overcome distress. Further, balancing concentration practices with open-monitoring practices, incorporating loving-kindness meditation, and even adding physical activity may help prevent any negative experiences from escalating into harmful effects. It has been proposed that a lack of understanding of the theoretical basis of meditation may also play a major causal role in the development of adverse effects.
+It is additionally important to note  that studies on adverse effects have found that participants who experience these effects are just as glad to have practiced meditation as those who do not, and that they continue to view meditation as a valuable activity that supports their mental wellbeing.
+
+
+== Concerns and criticism ==
+
+
+=== Scholarly research ===
+Many of the above cited review studies also indicate the necessity for more high-quality research in this field such as conducting intervention studies using larger sample sizes, the use of more randomized controlled studies and the need for providing more methodological details in reported studies. The majority of studies also either measure mindfulness as a trait, and in research that use mindfulness interventions in clinical practice, the lack of true randomisation poses a problem for understanding the true effectiveness of mindfulness. Experimental methods using randomised samples, though, suggest that mindfulness as a state or temporary practice can influence felt emotions such as disgust and promote abstract decision-making. There are also a few review studies that have found little difference between mindfulness interventions and control groups, though they did also indicate that their intervention group was treated too briefly for the research to be conclusive. In some domains, such as sport, a lack of internal validity across studies prevents any strong claims being made about the effects of mindfulness. These studies also list the need for more robust research investigations. Several issues pertaining to the assessment of mindfulness have also been identified including the current use of self-report questionnaires. Potential for bias also exists to the extent that researchers in the field are also practitioners and possibly subject to pressures to publish positive or significant results.
+Various scholars have criticized how mindfulness has been defined or represented in recent Western psychology publications.
+These modern understandings depart significantly from the accounts of mindfulness in early Buddhist texts and authoritative commentaries in the Theravada and Indian Mahayana traditions. Adam Valerio has introduced the idea that conflict between academic disciplines over how mindfulness is defined, understood, and popularly presented may be indicative of a personal, institutional, or paradigmatic battle for ownership over mindfulness, one where academics, researchers, and other writers are invested as individuals in much the same way as religious communities.
+
+
+=== Shortcomings ===
+The popularization of mindfulness as a "commodity" has been criticized, being termed "McMindfulness" by some critics.  For example, Ronald Purser discusses that there is certainly a beneficial aspect to mindfulness, such as reducing stress, however, the issue is the "product they are selling and how its been packaged." According to Harrington and Dunne, critics argue that "Mindfulness [...] was never supposed to be about weight loss, better sex, helping children perform better in school, helping employees be more productive in the workplace, or even improving the functioning of anxious, depressed people. It was never supposed to be a merchandized commodity to be bought and sold." According to John Safran, the popularity of mindfulness is the result of a marketing strategy: "McMindfulness is the marketing of a constructed dream; an idealized lifestyle; an identity makeover." The psychologist Thomas Joiner says that modern mindfulness meditation has been "corrupted" for commercial gain by self-help celebrities, and suggests that it encourages unhealthy narcissistic and self-obsessed mindsets.
+According to Purser and Loy, mindfulness is not being used as a means to awaken to insight in the "unwholesome roots of greed, ill will and delusion," but reshaped into a "banal, therapeutic, self-help technique" that has the opposite effect of reinforcing those passions. While mindfulness is marketed as a means to reduce stress, in a Buddhist context it is part of an all-embracing ethical program to foster "wise action, social harmony, and compassion." Purser explains that ultimately mindfulness is being stripped from its original Buddhist roots, losing its emphasis on ethical training and liberation from attachment, and is instead presented mainly as a therapeutic self-help method. The privatization of mindfulness neglects the societal and organizational causes of stress and discomfort, instead propagating adaptation to these circumstances. According to Bhikkhu Bodhi, "[A]bsent a sharp social critique, Buddhist practices could easily be used to justify and stabilize the status quo, becoming a reinforcement of consumer capitalism." The popularity of this new brand of mindfulness has resulted in the commercialization of meditation through self-help books, guided meditation classes, and mindfulness retreats.
+
+ Mindfulness is said to be a $4bn industry. More than 60,000 books for sale on Amazon have a variant of "mindfulness" in their title, touting the benefits of Mindful Parenting, Mindful Eating, Mindful Teaching, Mindful Therapy, Mindful Leadership, Mindful Finance, a Mindful Nation, and Mindful Dog Owners, to name just a few.
+Buddhist commentators have criticized the movement as being presented as equivalent to Buddhist practice, while in reality it is very possibly denatured with undesirable consequences, such as being ungrounded in the traditional reflective morality and therefore, astray from traditional Buddhist ethics. Criticisms suggest it to be either de-moralized or re-moralized into clinically based ethics. The conflict is often presented with concern to the teacher's credentials and qualifications, rather than the student's actual practice. Reformed Buddhist-influenced practices are being standardized and manualized in a distinct separation from Buddhism - which is seen as a religion based in monastic temples - and expressed as "mindfulness" in a new psychology ethic, practiced in modern meditation centers.
+
+
+== See also ==
+
+
+== Notes ==
+
+
+== References ==
+
+
+== Sources ==
+
+
+=== Printed sources ===
+
+
+=== Web sources ===
+
+
+== Further reading ==
+
+
+=== Origins ===
+
+
+=== Buddhism ===
+
+
+=== Psychology ===
+
+
+=== Other ===
+
+
+=== Critical ===

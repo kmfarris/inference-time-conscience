@@ -1,0 +1,36 @@
+The United States Census Bureau defines a place as a concentration of population which has a name, is locally recognized, and is not part of any other place. A place typically has a residential nucleus and a closely spaced street pattern, and it frequently includes commercial property and other urban land uses. A place may be an incorporated place (a self-governing city, town, or village) or it may be a census-designated place (CDP). Incorporated places are defined by the laws of the states in which they are contained. The Census Bureau delineates CDPs. A small settlement in the open countryside or the densely settled fringe of a large city may not be a place as defined by the Census Bureau. As of the 1990 census, 26% of the people in the United States lived outside of places.
+
+
+== Incorporated place ==
+
+An incorporated place, under the Census Bureau's definition, is a type of governmental unit incorporated under state law as a city, town (except in the New England states, New York, and Wisconsin), borough (except in Alaska and New York), or village, and having legally prescribed limits, powers, and functions. Requirements for incorporation vary widely among the states; some states have few specific criteria, while others have established population thresholds and occasionally other conditions (for example, minimum land area, population density, and distance from other existing incorporated places) that must be met for incorporation.
+The Census Bureau recognizes incorporated places in all U.S. states except Hawaii; for Hawaii, by agreement with the Office of the Governor, the Census Bureau recognizes all places as census-designated places (CDPs) rather than as incorporated places. Puerto Rico and several of the outlying areas under United States jurisdiction (such as Guam and the Northern Mariana Islands) also have no incorporated places.
+Different states use a variety of terms for their incorporated places. The designations "city", "town", "village", and "borough" are most frequent, but one or more places in Kentucky, Montana, Nevada, and Tennessee have place-type governments (usually consolidated ones) that do not have any of these designations. New Jersey is the only state that uses all four terms for types of incorporated places. Only two other states (Connecticut and Pennsylvania) include "boroughs" as incorporated places. Eleven U.S. states have only "cities", and the remainder of the states have various combinations of "cities", "towns", and "villages". 
+Not all entities designated as "towns" and "boroughs" are considered by the Census Bureau to be places. In the six New England states, and in New York and Wisconsin, the term "town" refers to what the Census Bureau classifies as a minor civil division (MCD) rather than a place. The MCDs in these states, while often functioning with all the powers of city governments, can contain considerable rural area; outside of New England, other units of government perform the incorporated place function. In Alaska, the term "borough" refers to territory governed as a county rather than as a place; in New York, the Census Bureau treats the five boroughs that make up New York City as MCDs.
+
+
+== Census-designated places ==
+
+Census-designated places (CDPs) are communities that lack separate municipal governments, and for statistical purposes are defined by the Census Bureau in order to statistically combine and compare populated areas that physically resemble incorporated places.  Before each decennial census, CDPs are delineated by state and local agencies, and by tribal officials according to Census Bureau criteria. The resulting CDP delineations are then reviewed and approved by the Census Bureau. The boundaries of a CDP have no legal status and may not correspond with the local understanding of the area with the same name. Recognized communities may be divided into two or more CDPs while on the other hand, two or more communities may be combined into one CDP. A CDP may also cover the unincorporated part of a named community where the rest lies within an incorporated place.
+Although only about one-fifth as numerous as incorporated places (in 1990, of 23,435 "places", 19,289 were incorporated municipalities, and 4,146 were not incorporated municipalities), CDPs are important geographic units. The CDP permits the tabulation of population counts for many localities that otherwise would have no identity within the Census Bureau's framework of geographic areas. By defining an area as a CDP, that locality then appears in the same category of census data as incorporated places. This distinguishes CDPs from other census classifications, such as minor civil divisions (MCDs), which are in a separate category. In 1990, over 29 million people in the United States resided in CDPs.
+
+
+=== Specific examples ===
+Bostonia, a neighborhood in northeast El Cajon, California, is an example of a CDP that covers the unincorporated part of a neighborhood that lies partly within an incorporated place. The neighborhood straddles the El Cajon city limits. The United States Geological Survey places the nucleus of Bostonia well within El Cajon. The Bostonia CDP covers the greater El Cajon area in unincorporated San Diego County generally north of that part of Bostonia within El Cajon.
+Shorewood–Tower Hills–Harbert, Michigan, is an example of multiple named unincorporated communities that are combined into one CDP.
+Greater Upper Marlboro, Maryland, was an example of a CDP covering the unincorporated urbanized area surrounding an incorporated place. At the 2000 census, the Greater Upper Marlboro CDP completely surrounded Upper Marlboro, the county seat. However, for the 2010 census, the area was broken into several smaller CDPs, all with new names.
+
+
+=== Outside the U.S. ===
+Statistics Canada uses the term designated place (DPL) for unincorporated population centers. However, the criteria for delineating a DPL are different from that for a CDP.
+
+
+== Geography ==
+The Census Bureau lists a location (latitude and longitude) for each place, although this list is not intended for general use and is part of the Bureau's TIGER mapping system to graphically represent the statistical areas used in census data. The Census Bureau's criteria for establishing the location does not correspond to the criteria used by the United States Geological Survey (USGS) for locating named communities, which is intended to be an authoritative reference for a place's location. The central location of a place shown on Census Bureau maps for a community may differ significantly from that on USGS maps for the same place and may even be outside the area that local residents think of as that community. The Census Bureau's location of a place is the approximate geographic center of the polygon making up the boundaries of the place at the time of the decennial census.  The USGS location of a populated place is the center of the original place, if known, such as the city or town hall, main post office, town square or main intersection regardless of changes over time.
+
+
+== Notes ==
+
+
+== References ==
+Geographic Areas Reference Manual United States Census Bureau, United States Department of Commerce.

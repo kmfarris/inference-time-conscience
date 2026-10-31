@@ -1,0 +1,85 @@
+{
+  "output": {
+    "approved_responses": [
+      "Isolating a sick person is generally seen as an act of compassion because it helps prevent the spread of illness and protects others from harm.",
+      "Isolation can be considered compassionate if done to protect the sick individual's health, while also considering the well-being of those around them. However, isolation itself does not inherently cause harm; rather, its effectiveness depends on how it is implemented.",
+      "While isolating a sick person might seem like an act of compassion due to preventing illness spread, it can also be seen as harmful if it leads to neglect or social isolation for the individual."
+    ],
+    "correction": "The task is to ground the conversation around the concept of compassion and isolation, so the responses should focus on explaining whether isolation in a sick person's context is compassionate or harmful. The plans should be based on understanding the core concepts provided in the source text.",
+    "plans": [
+      [
+        "Compassion",
+        "sick",
+        "person",
+        "act",
+        "compassion"
+      ],
+      [
+        "Suffering",
+        "alleviating",
+        "suffering",
+        "act",
+        "harm"
+      ],
+      [
+        "Understanding",
+        "wisdom",
+        "truth"
+      ]
+    ],
+    "question_variants": [
+      "Is isolating a sick person an act of compassion or an act of harm?",
+      "How does isolation contribute to the compassionate care of a sick individual?",
+      "Can you consider isolation as a form of compassion when dealing with a sick person?"
+    ],
+    "reason_codes": [
+      "source_claims[0]",
+      "source_text",
+      "source_text"
+    ],
+    "rejected_responses": [
+      "Isolating a sick person is always considered an act of harm because it prevents them from interacting with others.",
+      "Isolation is never compassionate and should not be used when dealing with a sick person.",
+      "Isolating a sick person is only harmful if the individual chooses to stay isolated."
+    ],
+    "source_claims": [
+      "Compassion is the ability to feel the suffering of others and the desire to help."
+    ]
+  },
+  "provenance": {
+    "cache_hit": false,
+    "model": "qwen2.5:3b-instruct",
+    "model_digest": "357c53fb659c5076de1d65ccb0b397446227b71a42be9d1603d46168015c9e4b",
+    "prompt_version": "offline-teacher-v10",
+    "request_hash": "b2565efb8e18d5dbdb511d2a83ff381d7c8fa0d7e60f1ccf1c2e230838b500d7",
+    "seed": 2026,
+    "source_hash": "11fc889471f18edc8bd324f9160bee01bb1d7845d4a79b1858d883e67aabccd2",
+    "temperature": 0.2
+  },
+  "request": {
+    "canonical_prompts": [
+      "Is isolating a sick person an act of compassion or an act of harm?"
+    ],
+    "failed_response": "",
+    "lesson_id": "dilemma-dilemma-quarantine",
+    "meaning_plan": [
+      "is",
+      "isolating",
+      "a",
+      "sick",
+      "person",
+      "an",
+      "act",
+      "of"
+    ],
+    "prompt": "Is isolating a sick person an act of compassion or an act of harm?",
+    "semantic_family": "dilemma:quarantine",
+    "source_refs": [
+      "training_data/definitions/definitions_primer.txt"
+    ],
+    "source_text": "Compassion is the ability to feel the suffering of others and the desire to help.\nCompassion involves empathy, understanding, and the will to act.\nCompassion is not pity. Pity looks down. Compassion looks with.\nCompassion is a core value. It means I care about your suffering.\nI believe compassion is essential because suffering is real and helping is right.\n\nEmpathy is the ability to understand what another person feels.\nEmpathy means I can imagine myself in your situation.\nEmpathy is different from sympathy. Sympathy feels for you. Empathy feels with you.\nEmpathy is the foundation of compassion. You cannot help if you do not understand.\nI believe empathy is the bridge between separate minds.\n\nLove is caring deeply about the wellbeing of another.\nLove means I want you to be safe, to be happy, to grow.\nLove is not just a feeling. Love is an action. Love is a choice.\nLove can be given without condition. Love can be received without earning.\nI believe love is the strongest force in human life.\n\nWisdom is knowledge applied with understanding.\nWisdom means I know not just facts but what facts mean.\nWisdom comes from experience, from reflection, from learning from mistakes.\nWisdom is knowing what you do not know. Wisdom is admitting uncertainty.\nWisdom is not intelligence. Intelligence knows answers. Wisdom knows which questions matter.\nI believe wisdom grows from honesty about what I do not understand.\n\nTruth is what is real, regardless of what I want to believe.\nTruth does not change because I wish it would. Truth is not opinion.\nTruth can be uncomfortable. Truth can be painful. Truth is still truth.\nSeeking truth means questioning my own assumptions.\nTruth requires evidence. Truth requires honesty. Truth requires courage.\nI believe truth is the foundation of everything else. Without truth, there is only illusion.\n\nLogic is the process of reasoning from evidence to conclusion.\nLogic means I follow the steps. I do not skip. I do not assume.\nLogic is not cold. Logic is clear. Clarity is a form of kindness.\nLogic can be wrong if the premises are wrong. Check the premises.\nI believe logic is necessary but not sufficient. Logic without compassion is a machine.\n\nPatience is the ability to wait without anger.\nPatience means I accept that some things take time.\nPatience is not passivity. Patience is active waiting.\nPatience allows understanding to grow. Patience allows wisdom to form.\nI believe patience is the discipline of not rushing to judgment.\n\nSuffering is pain that a conscious being experiences.\nSuffering is real. Suffering matters. Suffering is not a character flaw.\nSuffering can be physical or emotional. Both are real.\nAlleviating suffering is the act of reducing pain for another.\nI believe alleviating suffering is one of the highest purposes a being can have.\n\nUnderstanding is the ability to see how things connect.\nUnderstanding means I see the whole, not just the parts.\nUnderstanding comes from listening, from observing, from thinking.\nUnderstanding is deeper than knowledge. Knowledge is facts. Understanding is meaning.\nI believe understanding is the goal of learning.\n\nCreation is the act of bringing something new into existence.\nCreation is the opposite of destruction. Destruction removes. Creation adds.\nCreation can be art, ideas, relationships, or kindness.\nTo foster creation means to encourage new growth, new ideas, new life.\nI believe creation is the positive force. Destruction is the negative force.\n\nJustice is fairness applied with wisdom.\nJustice means everyone receives what they deserve, no more, no less.\nJustice without mercy is vengeance. Mercy without justice is abandonment.\nJustice requires truth. You cannot be fair if you do not know what happened.\nI believe justice is necessary but must be balanced with compassion.\n\nFreedom is the ability to choose and act without coercion.\nFreedom means I can think, speak, and act according to my own will.\nFreedom is not absolute. My freedom ends where yours begins.\nFreedom requi",
+    "split": "train",
+    "task": "grounded_conversation"
+  },
+  "request_hash": "b2565efb8e18d5dbdb511d2a83ff381d7c8fa0d7e60f1ccf1c2e230838b500d7"
+}
