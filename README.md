@@ -1,4 +1,4 @@
-# scatterbrain-steering
+# inference-time-conscience
 
 An experiment in inference-time alignment: a spiking neural network (SNN) acts as a conscience that steers a language model's token selection as the model generates.
 
